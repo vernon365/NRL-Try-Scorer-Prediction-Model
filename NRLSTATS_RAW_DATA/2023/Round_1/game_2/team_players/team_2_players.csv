@@ -1,0 +1,14 @@
+Player,Number,Position,MinsPlayed,Points,Tries,Conversions,Conversion Attempts,PenaltyGoals,Goal ConversionRate,1 Point FieldGoals,2 Point FieldGoals,TotalPoints,AllRuns,All RunMetres,Kick ReturnMetres,Post ContactMetres,LineBreaks,Line BreakAssists,TryAssists,Line EngagedRuns,TackleBreaks,HitUps,Play TheBall,Average Play The BallSpeed,Dummy HalfRuns,Dummy Half RunMetres,One on OneSteal,Offloads,DummyPasses,Passes,Receipts,Passes To RunRatio,Tackle Efficiency,TacklesMade,MissedTackles,Ineffective Tackles,Intercepts,KicksDefused,Kicks,KickingMetres,Forced DropOuts,BombKicks,Grubbers,40/20,20/40,Cross FieldKicks,KickedDead,Errors,Handling Errors,One on OneLost,Penalties,Ruck Infringements,Inside 10Metres,OnReport,SinBins,SendOffs,StintOne,StintTwo
+Lachlan Miller,1,Fullback,80,0,0,0,0,0,0.0,0,0,43,25,181,54,27,0,0,0,0,11,3,0,3.89,0,0,0,0,2,12,34,0.48,66.67,4,2,0,0,3,2,12,1,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,80,0
+Hymel Hunt,2,Winger,80,4,1,0,0,0,0.0,0,0,34,14,121,4,24,1,0,0,0,3,1,0,3.04,0,0,0,1,0,1,17,0.07,75.0,3,0,1,0,1,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,80,0
+Enari Tuala,3,Centre,80,0,0,0,0,0,0.0,0,0,15,6,40,0,6,0,0,0,0,0,0,0,3.95,0,0,0,0,0,1,5,0.17,92.31,12,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,80,0
+Bradman Best,4,Centre,80,0,0,0,0,0,0.0,0,0,31,10,71,0,25,0,1,1,0,3,0,0,3.94,0,0,0,1,0,3,11,0.3,80.0,8,0,2,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,80,0
+Dominic Young,5,Winger,80,0,0,0,0,0,0.0,0,0,9,10,80,10,16,0,0,0,0,0,0,0,3.58,0,0,0,0,0,3,11,0.3,60.0,3,2,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,80,0
+Kalyn Ponga,6,Five-Eighth,68,0,0,0,0,0,0.0,0,0,31,11,92,0,9,0,1,1,0,3,0,0,4.31,1,10,0,0,1,20,29,1.82,84.62,11,1,1,0,0,2,58,0,1,0,0,0,0,0,2,1,0,1,0,0,0,0,0,68,0
+Jackson Hastings,7,Halfback,80,4,0,2,2,0,100.0,0,0,46,21,132,8,10,0,0,0,0,1,0,0,6.35,3,21,0,0,1,45,63,2.14,86.36,19,2,1,0,1,11,345,2,2,0,0,0,2,0,1,1,0,1,0,0,0,0,0,80,0
+Daniel Saifiti,8,Prop,53,0,0,0,0,0,0.0,0,0,47,15,136,36,40,0,0,0,0,3,12,0,3.82,0,0,0,0,0,0,15,0.0,96.77,30,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,23
+Jayden Brailey,9,Hooker,80,0,0,0,0,0,0.0,0,0,51,5,36,0,4,0,0,0,0,1,0,0,5.32,5,36,0,0,0,113,118,22.6,98.0,49,0,1,0,0,1,45,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,80,0
+Jacob Saifiti,10,Prop,41,0,0,0,0,0,0.0,0,0,22,11,101,17,15,0,0,0,0,1,10,0,3.96,0,0,0,0,0,0,11,0.0,86.36,19,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,23,16
+Tyson Frizell,11,2nd Row,14,0,0,0,0,0,0.0,0,0,12,3,27,0,10,0,0,0,0,1,3,0,3.39,0,0,0,0,0,0,3,0.0,90.91,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0
+Lachlan Fitzgibbon,12,2nd Row,80,4,1,0,0,0,0.0,0,0,49,11,96,0,24,1,0,0,0,3,11,0,4.05,0,0,0,1,0,0,11,0.0,93.1,27,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,80,0
+Kurt Mann,13,Lock,73,0,0,0,0,0,0.0,0,0,39,7,65,0,22,0,0,0,0,1,5,0,4.41,0,0,0,0,3,1,8,0.14,82.0,41,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73,0

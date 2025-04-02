@@ -1,0 +1,14 @@
+Player,Number,Position,MinsPlayed,Points,Tries,Conversions,Conversion Attempts,PenaltyGoals,Goal ConversionRate,1 Point FieldGoals,2 Point FieldGoals,TotalPoints,AllRuns,All RunMetres,Kick ReturnMetres,Post ContactMetres,LineBreaks,Line BreakAssists,TryAssists,Line EngagedRuns,TackleBreaks,HitUps,Play TheBall,Average Play The BallSpeed,Dummy HalfRuns,Dummy Half RunMetres,One on OneSteal,Offloads,DummyPasses,Passes,Receipts,Passes To RunRatio,Tackle Efficiency,TacklesMade,MissedTackles,Ineffective Tackles,Intercepts,KicksDefused,Kicks,KickingMetres,Forced DropOuts,BombKicks,Grubbers,40/20,20/40,Cross FieldKicks,KickedDead,Errors,Handling Errors,One on OneLost,Penalties,Ruck Infringements,Inside 10Metres,OnReport,SinBins,SendOffs,StintOne,StintTwo
+Clinton Gutherson,1,Fullback,80,4,1,0,0,0,0.0,0,0,43,13,109,13,26,1,0,0,0,5,0,0,4.14,1,14,0,2,3,31,44,2.38,66.67,6,3,0,0,1,2,38,0,0,1,0,0,0,0,2,2,0,1,0,0,0,0,0,80,0
+Maika Sivo,2,Winger,69,0,0,0,0,0,0.0,0,0,6,11,82,44,27,0,0,0,0,3,0,0,3.76,0,0,0,0,0,2,14,0.18,100.0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,0,1,0,0,1,1,0,69,0
+Will Penisini,3,Centre,80,4,1,0,0,0,0.0,0,0,43,12,73,0,24,1,0,0,0,6,0,0,3.4,0,0,0,0,0,7,15,0.58,80.0,16,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Bailey Simonsson,4,Centre,80,0,0,0,0,0,0.0,0,0,19,13,123,0,39,0,0,0,0,4,0,0,4.19,1,7,0,1,0,1,15,0.08,71.43,5,1,1,0,0,0,0,0,0,0,0,0,0,0,2,2,0,1,0,0,0,0,0,80,0
+Sean Russell,5,Winger,80,0,0,0,0,0,0.0,0,0,23,11,75,25,27,0,0,0,0,1,0,0,4.61,1,0,0,1,0,1,13,0.09,77.78,7,2,0,0,0,1,24,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,80,0
+Daejarn Asi,6,Five-Eighth,80,0,0,0,0,0,0.0,0,0,8,4,27,0,4,0,0,0,0,0,0,0,3.56,0,0,0,0,1,22,27,5.5,80.0,12,3,0,0,0,4,68,0,2,0,0,0,1,0,1,1,0,0,0,0,0,0,0,80,0
+Mitchell Moses,7,Halfback,80,9,0,3,4,1,80.0,1,0,42,19,137,0,20,0,0,0,0,1,1,0,3.95,0,0,0,0,2,30,48,1.58,77.27,17,4,1,0,0,9,283,0,2,2,0,0,0,0,0,0,0,1,1,1,0,0,0,80,0
+Reagan Campbell-Gillard,8,Prop,50,4,1,0,0,0,0.0,0,0,41,15,167,38,53,1,0,0,0,3,12,0,3.89,0,0,0,0,0,1,17,0.07,84.0,21,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,52,7
+Brendan Hands,9,Hooker,80,0,0,0,0,0,0.0,0,0,57,5,34,0,11,0,1,1,0,0,4,0,4.28,1,7,0,1,1,110,117,22.0,90.38,47,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,80,0
+Junior Paulo,10,Prop,44,0,0,0,0,0,0.0,0,0,49,18,165,39,57,0,0,0,0,1,14,0,3.59,0,0,0,4,0,3,20,0.17,90.48,19,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,22
+Shaun Lane,11,2nd Row,80,0,0,0,0,0,0.0,0,0,36,7,86,0,35,0,0,0,0,2,7,0,3.56,0,0,0,0,0,1,8,0.14,95.65,22,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Bryce Cartwright,12,2nd Row,80,4,1,0,0,0,0.0,0,0,74,15,124,0,34,1,1,1,0,5,14,0,3.48,1,2,0,3,0,4,19,0.27,87.5,28,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,80,0
+J'maine Hopgood,13,Lock,61,0,0,0,0,0,0.0,0,0,56,14,120,0,41,0,0,0,0,1,12,0,3.34,0,0,0,1,4,7,19,0.5,97.56,40,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,32,29

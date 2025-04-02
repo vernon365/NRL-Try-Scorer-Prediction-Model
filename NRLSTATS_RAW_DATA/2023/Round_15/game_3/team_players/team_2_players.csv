@@ -1,0 +1,14 @@
+Player,Number,Position,MinsPlayed,Points,Tries,Conversions,Conversion Attempts,PenaltyGoals,Goal ConversionRate,1 Point FieldGoals,2 Point FieldGoals,TotalPoints,AllRuns,All RunMetres,Kick ReturnMetres,Post ContactMetres,LineBreaks,Line BreakAssists,TryAssists,Line EngagedRuns,TackleBreaks,HitUps,Play TheBall,Average Play The BallSpeed,Dummy HalfRuns,Dummy Half RunMetres,One on OneSteal,Offloads,DummyPasses,Passes,Receipts,Passes To RunRatio,Tackle Efficiency,TacklesMade,MissedTackles,Ineffective Tackles,Intercepts,KicksDefused,Kicks,KickingMetres,Forced DropOuts,BombKicks,Grubbers,40/20,20/40,Cross FieldKicks,KickedDead,Errors,Handling Errors,One on OneLost,Penalties,Ruck Infringements,Inside 10Metres,OnReport,SinBins,SendOffs,StintOne,StintTwo
+Hamiso Tabuai-Fidow,1,Fullback,80,8,2,0,0,0,0.0,0,0,40,12,187,80,18,1,0,0,0,3,0,0,3.12,0,0,0,0,1,11,23,0.92,50.0,4,3,1,0,2,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,80,0
+Jamayne Isaako,2,Winger,80,10,1,3,3,0,100.0,0,0,34,9,88,24,27,1,0,0,0,0,0,0,2.7,1,6,0,0,0,5,14,0.56,81.82,9,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Euan Aitken,3,Centre,80,0,0,0,0,0,0.0,0,0,28,12,96,0,31,0,0,0,0,2,0,0,2.97,0,0,0,0,1,3,14,0.25,80.95,17,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,80,0
+Brenko Lee,4,Centre,14,0,0,0,0,0,0.0,0,0,8,1,14,0,5,0,0,0,0,0,0,0,4.12,0,0,0,0,0,0,1,0.0,100.0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0
+Tesi Niu,5,Winger,80,0,0,0,0,0,0.0,0,0,15,12,135,50,30,0,0,0,0,3,1,0,3.74,1,7,0,0,0,2,18,0.17,100.0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,3,4,0,1,0,0,0,0,0,80,0
+Kodi Nikorima,6,Five-Eighth,80,0,0,0,0,0,0.0,0,0,48,9,62,0,4,0,2,2,0,1,0,0,3.8,1,15,0,0,5,34,45,3.78,80.95,17,3,1,0,1,9,207,2,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Isaiya Katoa,7,Halfback,80,0,0,0,0,0,0.0,0,0,35,16,114,6,13,0,0,0,0,0,0,0,4.3,0,0,0,0,4,31,46,1.94,78.26,18,4,1,0,1,11,280,2,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Jesse Bromwich,8,Prop,39,0,0,0,0,0,0.0,0,0,34,7,80,9,23,0,0,0,0,0,5,0,3.35,0,0,0,0,0,3,9,0.43,93.75,30,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,20
+Jeremy Marshall-King,9,Hooker,41,0,0,0,0,0,0.0,0,0,24,1,17,0,4,0,0,0,0,0,0,0,5.84,1,17,0,0,0,36,37,36.0,88.0,22,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0
+Poasa Faamausili,10,Prop,39,0,0,0,0,0,0.0,0,0,28,3,37,0,10,0,0,0,0,0,3,0,3.48,0,0,0,0,0,0,3,0.0,93.55,29,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,19
+Kenneath Bromwich,11,2nd Row,62,0,0,0,0,0,0.0,0,0,48,6,61,0,22,0,0,0,0,0,6,0,3.63,0,0,0,0,0,0,7,0.0,100.0,38,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,62,0
+Connelly Lemuelu,12,2nd Row,80,0,0,0,0,0,0.0,0,0,38,10,102,0,49,0,0,0,0,0,10,0,3.71,0,0,0,1,0,1,11,0.1,88.24,30,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,80,0
+Ray Stone,13,Interchange,61,0,0,0,0,0,0.0,0,0,43,9,78,0,30,0,0,0,0,1,9,0,3.3,0,0,0,0,0,2,11,0.22,90.91,40,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,61,0

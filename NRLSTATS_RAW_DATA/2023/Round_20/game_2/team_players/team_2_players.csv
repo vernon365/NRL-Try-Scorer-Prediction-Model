@@ -1,0 +1,14 @@
+Player,Number,Position,MinsPlayed,Points,Tries,Conversions,Conversion Attempts,PenaltyGoals,Goal ConversionRate,1 Point FieldGoals,2 Point FieldGoals,TotalPoints,AllRuns,All RunMetres,Kick ReturnMetres,Post ContactMetres,LineBreaks,Line BreakAssists,TryAssists,Line EngagedRuns,TackleBreaks,HitUps,Play TheBall,Average Play The BallSpeed,Dummy HalfRuns,Dummy Half RunMetres,One on OneSteal,Offloads,DummyPasses,Passes,Receipts,Passes To RunRatio,Tackle Efficiency,TacklesMade,MissedTackles,Ineffective Tackles,Intercepts,KicksDefused,Kicks,KickingMetres,Forced DropOuts,BombKicks,Grubbers,40/20,20/40,Cross FieldKicks,KickedDead,Errors,Handling Errors,One on OneLost,Penalties,Ruck Infringements,Inside 10Metres,OnReport,SinBins,SendOffs,StintOne,StintTwo
+Tristan Sailor,1,Fullback,80,0,0,0,0,0,0.0,0,0,43,21,177,16,51,0,1,2,0,0,1,0,2.87,4,35,0,1,1,13,39,0.62,66.67,2,0,1,0,4,5,78,1,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,80,0
+Kotoni Staggs,3,Centre,80,0,0,0,1,0,0.0,0,0,25,11,122,11,44,2,0,0,0,1,0,0,3.33,0,0,0,0,0,16,25,1.45,58.33,7,4,1,1,0,1,15,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,80,0
+Herbie Farnworth,4,Centre,80,4,1,0,0,0,0.0,0,0,38,11,122,0,50,0,0,0,0,1,1,0,4.63,1,18,0,2,0,4,18,0.36,92.31,12,0,1,0,0,1,4,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,80,0
+Selwyn Cobbo,5,Winger,70,0,0,0,0,0,0.0,0,0,27,10,79,15,25,0,1,1,0,2,1,0,3.23,0,0,0,1,1,5,15,0.5,84.21,16,2,1,0,2,1,24,0,0,1,0,0,0,1,0,0,0,2,0,0,1,1,0,70,0
+Ezra Mam,6,Five-Eighth,80,4,1,0,0,0,0.0,0,0,27,17,133,7,29,0,0,0,0,2,0,0,3.33,1,11,0,0,5,18,32,1.06,71.43,15,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,80,0
+Adam Reynolds,7,Halfback,70,16,1,6,7,0,85.71,0,0,64,8,61,0,12,0,3,3,0,0,0,0,6.43,1,4,0,0,3,33,52,4.13,76.92,10,1,2,0,0,12,375,0,3,0,0,0,0,0,1,1,0,0,1,0,0,0,0,70,0
+Keenan Palasia,8,Prop,60,0,0,0,0,0,0.0,0,0,42,12,133,32,49,0,0,0,0,0,10,0,2.89,0,0,0,2,0,12,24,1.0,87.88,29,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,31,28
+Billy Walters,9,Hooker,56,4,1,0,0,0,0.0,0,0,51,8,80,0,14,1,0,0,0,4,1,0,3.4,7,58,0,2,3,72,77,9.0,84.38,27,3,2,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,56,0
+Corey Jensen,10,Prop,41,0,0,0,0,0,0.0,0,0,36,16,155,0,69,0,0,0,0,1,16,0,3.27,0,0,0,0,0,2,18,0.13,86.36,19,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,15
+Kurt Capewell,11,2nd Row,80,4,1,0,0,0,0.0,0,0,43,6,52,0,18,1,0,0,0,2,6,0,2.84,0,0,0,1,0,2,8,0.33,80.0,36,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,80,0
+Brendan Piakura,12,2nd Row,80,4,1,0,0,0,0.0,0,0,51,11,121,0,33,1,0,1,0,3,10,0,2.87,0,0,0,0,0,4,13,0.36,78.57,22,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Kobe Hetherington,13,Lock,50,0,0,0,0,0,0.0,0,0,27,11,103,0,42,0,0,0,0,0,11,0,3.52,0,0,0,0,0,2,13,0.18,75.0,27,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,23
+Tyson Smoothy,14,Interchange,24,0,0,0,0,0,0.0,0,0,11,1,15,0,3,0,0,0,0,0,1,0,3.24,0,0,0,0,0,32,33,32.0,80.0,12,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0

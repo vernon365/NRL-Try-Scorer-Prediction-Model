@@ -1,0 +1,14 @@
+Player,Number,Position,MinsPlayed,Points,Tries,Conversions,Conversion Attempts,PenaltyGoals,Goal ConversionRate,1 Point FieldGoals,2 Point FieldGoals,TotalPoints,AllRuns,All RunMetres,Kick ReturnMetres,Post ContactMetres,LineBreaks,Line BreakAssists,TryAssists,Line EngagedRuns,TackleBreaks,HitUps,Play TheBall,Average Play The BallSpeed,Dummy HalfRuns,Dummy Half RunMetres,One on OneSteal,Offloads,DummyPasses,Passes,Receipts,Passes To RunRatio,Tackle Efficiency,TacklesMade,MissedTackles,Ineffective Tackles,Intercepts,KicksDefused,Kicks,KickingMetres,Forced DropOuts,BombKicks,Grubbers,40/20,20/40,Cross FieldKicks,KickedDead,Errors,Handling Errors,One on OneLost,Penalties,Ruck Infringements,Inside 10Metres,OnReport,SinBins,SendOffs,StintOne,StintTwo
+Hayze Perham,1,Fullback,80,0,0,0,0,0,0.0,0,0,24,17,125,37,22,0,1,1,0,1,1,0,3.38,1,7,0,0,0,23,38,1.35,100.0,4,0,0,0,1,1,8,1,0,1,0,0,0,0,2,2,0,0,0,0,0,0,0,80,0
+Jake Averillo,3,Centre,80,0,0,0,0,0,0.0,0,0,6,8,68,0,12,0,0,0,0,1,0,0,3.68,0,0,0,1,0,5,7,0.63,55.56,10,7,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,80,0
+Paul Alamoti,4,Centre,80,0,0,0,0,0,0.0,0,0,32,17,144,0,37,0,0,0,0,4,0,0,3.01,0,0,0,1,0,8,21,0.47,83.33,10,2,0,0,0,1,14,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,80,0
+Blake Wilson,5,Winger,80,0,0,0,0,0,0.0,0,0,11,9,69,14,22,0,0,0,0,1,0,0,2.52,0,0,0,0,0,2,11,0.22,83.33,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,80,0
+Karl Oloapu,6,Five-Eighth,77,0,0,0,0,0,0.0,0,0,32,6,42,0,10,0,0,0,0,1,0,0,3.36,0,0,0,0,3,31,42,5.17,90.91,20,1,1,0,0,7,207,0,2,1,0,0,0,0,1,1,0,0,0,0,0,0,0,74,2
+Matt Burton,7,Halfback,80,8,0,4,4,0,100.0,0,0,44,12,97,0,21,0,0,2,0,1,0,0,2.67,0,0,0,0,5,37,54,3.08,80.0,12,2,1,0,0,10,272,0,5,2,0,0,0,0,0,0,0,1,0,0,0,0,0,80,0
+Max King,8,Prop,38,0,0,0,0,0,0.0,0,0,25,10,89,0,40,0,0,0,0,0,10,0,4.0,0,0,0,0,0,1,11,0.1,84.38,27,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,27,11
+Reed Mahoney,9,Hooker,34,4,1,0,0,0,0.0,0,0,22,2,46,0,0,0,0,0,0,0,0,0,2.96,1,5,0,0,2,46,48,23.0,87.5,14,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,0
+Ryan Sutton,10,Prop,21,0,0,0,0,0,0.0,0,0,10,6,34,10,9,0,0,0,0,0,5,0,2.92,0,0,0,0,0,0,6,0.0,84.62,11,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0
+Jayden Okunbor,11,2nd Row,80,0,0,0,0,0,0.0,0,0,36,7,82,0,40,0,0,0,0,1,7,0,2.61,0,0,0,1,1,2,9,0.29,91.89,34,3,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,1,0,0,0,0,0,80,0
+Jacob Preston,12,2nd Row,80,0,0,0,0,0,0.0,0,0,53,10,89,0,33,0,1,0,0,1,8,0,3.57,0,0,0,0,0,2,10,0.2,95.24,40,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Corey Waddell,13,Interchange,54,0,0,0,0,0,0.0,0,0,40,21,158,10,51,0,0,0,0,2,18,0,3.74,0,0,0,0,0,11,31,0.52,89.29,25,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,53,0
+Josh Reynolds,14,Replacement,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

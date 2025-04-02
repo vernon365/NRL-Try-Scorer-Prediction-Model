@@ -1,0 +1,14 @@
+Player,Number,Position,MinsPlayed,Points,Tries,Conversions,Conversion Attempts,PenaltyGoals,Goal ConversionRate,1 Point FieldGoals,2 Point FieldGoals,TotalPoints,AllRuns,All RunMetres,Kick ReturnMetres,Post ContactMetres,LineBreaks,Line BreakAssists,TryAssists,Line EngagedRuns,TackleBreaks,HitUps,Play TheBall,Average Play The BallSpeed,Dummy HalfRuns,Dummy Half RunMetres,One on OneSteal,Offloads,DummyPasses,Passes,Receipts,Passes To RunRatio,Tackle Efficiency,TacklesMade,MissedTackles,Ineffective Tackles,Intercepts,KicksDefused,Kicks,KickingMetres,Forced DropOuts,BombKicks,Grubbers,40/20,20/40,Cross FieldKicks,KickedDead,Errors,Handling Errors,One on OneLost,Penalties,Ruck Infringements,Inside 10Metres,OnReport,SinBins,SendOffs,StintOne,StintTwo
+Sebastian Kris,1,Fullback,82,0,0,0,0,0,0.0,0,0,40,17,163,76,62,0,1,0,0,1,0,0,3.93,0,0,0,1,1,5,23,0.29,100.0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,82,0
+Albert Hopoate,2,Winger,82,0,0,0,0,0,0.0,0,0,33,18,196,25,51,1,0,1,0,3,2,0,3.35,2,13,0,0,0,2,23,0.11,60.0,3,2,0,0,4,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,82,0
+Jarrod Croker,3,Centre,82,4,0,2,4,0,50.0,0,0,23,8,49,6,10,0,0,0,0,5,0,0,3.86,0,0,0,0,0,6,12,0.75,85.71,12,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,82,0
+Matthew Timoko,4,Centre,82,0,0,0,0,0,0.0,0,0,54,14,185,0,62,1,1,0,0,7,1,0,3.62,0,0,0,1,0,3,14,0.21,85.71,12,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,82,0
+Jordan Rapana,5,Winger,82,4,1,0,0,0,0.0,0,0,46,17,129,9,46,2,0,1,0,5,1,0,3.41,2,11,0,0,3,5,22,0.29,80.0,8,2,0,0,0,1,6,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,82,0
+Jack Wighton,6,Five-Eighth,82,4,1,0,0,0,0.0,0,0,29,11,109,0,15,0,1,0,0,0,1,0,3.07,3,16,0,0,3,30,43,2.73,89.47,17,2,0,0,0,5,128,0,1,1,0,0,1,0,3,2,0,1,0,0,0,0,0,82,0
+Jamal Fogarty,7,Halfback,82,0,0,0,0,0,0.0,0,0,51,8,54,0,19,0,0,1,0,0,0,0,4.09,0,0,0,0,5,31,56,3.88,95.83,23,1,0,0,0,19,499,3,5,3,0,0,4,0,0,0,0,1,0,0,0,0,0,82,0
+Josh Papalii,8,Prop,59,0,0,0,0,0,0.0,0,0,50,19,169,17,71,0,0,0,0,4,17,0,3.83,0,0,0,1,0,2,21,0.11,100.0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,28
+Zac Woolford,9,Hooker,35,0,0,0,0,0,0.0,0,0,17,3,19,0,0,0,0,0,0,0,0,0,5.24,3,19,0,0,0,54,55,18.0,90.0,18,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,0
+Joseph Tapine,10,Prop,48,0,0,0,0,0,0.0,0,0,52,15,154,0,71,0,0,0,0,5,14,0,3.21,0,0,0,1,0,7,20,0.47,93.33,28,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,31,1
+Hudson Young,11,2nd Row,82,4,1,0,0,0,0.0,0,0,38,11,139,13,39,0,0,0,0,1,8,0,4.41,1,6,0,1,1,1,14,0.09,88.0,22,3,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,0,0,82,0
+Elliott Whitehead,12,2nd Row,82,4,1,0,0,0,0.0,0,0,57,9,54,0,20,0,0,0,0,2,8,0,3.54,0,0,0,0,0,4,13,0.44,97.73,43,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,82,0
+Corey Horsburgh,13,Lock,70,0,0,0,0,0,0.0,0,0,69,15,145,8,49,0,0,0,0,0,14,0,3.13,0,0,0,1,1,10,25,0.67,98.36,60,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0,1,0,0,0,57,12

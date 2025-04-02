@@ -1,0 +1,14 @@
+Player,Number,Position,MinsPlayed,Points,Tries,Conversions,Conversion Attempts,PenaltyGoals,Goal ConversionRate,1 Point FieldGoals,2 Point FieldGoals,TotalPoints,AllRuns,All RunMetres,Kick ReturnMetres,Post ContactMetres,LineBreaks,Line BreakAssists,TryAssists,Line EngagedRuns,TackleBreaks,HitUps,Play TheBall,Average Play The BallSpeed,Dummy HalfRuns,Dummy Half RunMetres,One on OneSteal,Offloads,DummyPasses,Passes,Receipts,Passes To RunRatio,Tackle Efficiency,TacklesMade,MissedTackles,Ineffective Tackles,Intercepts,KicksDefused,Kicks,KickingMetres,Forced DropOuts,BombKicks,Grubbers,40/20,20/40,Cross FieldKicks,KickedDead,Errors,Handling Errors,One on OneLost,Penalties,Ruck Infringements,Inside 10Metres,OnReport,SinBins,SendOffs,StintOne,StintTwo
+Jake Averillo,1,Fullback,80,8,2,0,0,0,0.0,0,0,49,13,122,34,17,1,0,0,0,7,1,0,3.71,2,13,0,0,1,22,34,1.69,100.0,1,0,0,0,4,1,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,80,0
+Blake Wilson,2,Winger,80,0,0,0,0,0,0.0,0,0,23,14,178,12,42,0,0,0,0,2,0,0,3.21,2,16,0,0,0,4,18,0.29,71.43,5,2,0,1,1,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,80,0
+Braidon Burns,3,Centre,49,0,0,0,0,0,0.0,0,0,18,7,57,12,11,0,0,0,0,2,0,0,3.09,2,14,0,0,0,3,7,0.43,75.0,9,3,0,0,0,1,21,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0
+Jacob Kiraz,4,Centre,80,0,0,0,0,0,0.0,0,0,65,22,230,0,74,0,0,0,0,10,1,0,3.32,1,4,0,4,0,8,28,0.36,69.23,9,2,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Matt Burton,6,Five-Eighth,80,8,0,4,4,0,100.0,0,0,33,8,52,7,12,0,0,0,0,2,0,0,3.7,0,0,0,0,0,22,37,2.75,78.26,18,5,0,0,1,10,259,1,3,2,0,0,0,0,0,0,0,1,1,0,0,0,0,80,0
+Toby Sexton,7,Halfback,38,0,0,0,0,0,0.0,0,0,25,7,54,0,4,1,0,1,0,2,0,0,4.53,0,0,0,1,0,15,20,2.14,66.67,10,3,2,0,0,1,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0
+Max King,8,Prop,55,0,0,0,0,0,0.0,0,0,46,12,111,0,39,0,0,0,0,1,11,0,3.11,0,0,0,1,0,3,14,0.25,100.0,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,24
+Reed Mahoney,9,Hooker,80,0,0,0,0,0,0.0,0,0,62,7,37,0,1,0,1,1,0,0,1,0,4.15,5,28,0,0,0,85,92,12.14,89.47,51,2,4,0,0,3,142,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,80,0
+Raymond Faitala-Mariner,10,Prop,31,0,0,0,0,0,0.0,0,0,23,6,46,11,12,0,0,0,0,0,3,0,3.42,0,0,0,0,0,4,8,0.67,100.0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,20,9
+Jackson Topine,11,2nd Row,80,0,0,0,0,0,0.0,0,0,47,7,65,0,26,0,0,0,0,1,7,0,3.27,0,0,0,1,0,4,12,0.57,88.68,47,4,2,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,80,0
+Jacob Preston,12,2nd Row,80,4,1,0,0,0,0.0,0,0,64,11,96,0,34,1,0,0,0,1,10,0,3.14,0,0,0,1,0,2,13,0.18,91.84,45,2,2,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,80,0
+Corey Waddell,13,Lock,59,4,1,0,0,0,0.0,0,0,73,13,138,0,45,1,0,0,0,3,11,0,3.11,0,0,0,3,0,3,14,0.23,97.14,34,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,34,24
+Kyle Flanagan,14,Interchange,42,0,0,0,0,0,0.0,0,0,26,6,28,0,2,0,0,0,0,0,1,0,4.0,0,0,0,0,0,29,32,4.83,100.0,19,0,0,0,0,1,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,0

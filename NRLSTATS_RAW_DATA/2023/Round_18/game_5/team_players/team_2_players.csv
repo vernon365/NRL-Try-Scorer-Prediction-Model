@@ -1,0 +1,14 @@
+Player,Number,Position,MinsPlayed,Points,Tries,Conversions,Conversion Attempts,PenaltyGoals,1 Point FieldGoals,2 Point FieldGoals,TotalPoints,AllRuns,All RunMetres,Kick ReturnMetres,Post ContactMetres,LineBreaks,Line BreakAssists,TryAssists,Line EngagedRuns,TackleBreaks,HitUps,Play TheBall,Average Play The BallSpeed,Dummy HalfRuns,Dummy Half RunMetres,One on OneSteal,Offloads,DummyPasses,Passes,Receipts,Passes To RunRatio,Tackle Efficiency,TacklesMade,MissedTackles,Ineffective Tackles,Intercepts,KicksDefused,Kicks,KickingMetres,Forced DropOuts,BombKicks,Grubbers,40/20,20/40,Cross FieldKicks,KickedDead,Errors,Handling Errors,One on OneLost,Penalties,Ruck Infringements,Inside 10Metres,OnReport,SinBins,SendOffs,StintOne,StintTwo
+Jahream Bula,1,Fullback,80,0,0,0,0,0,0,0,15,10,99,46,19,0,0,0,0,4,0,0,4.24,0,0,0,1,0,10,22,1.0,45.45,5,5,1,0,3,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,80,0
+David Nofoaluma,2,Winger,80,0,0,0,0,0,0,0,20,13,113,11,35,1,0,0,0,1,0,0,3.65,0,0,0,1,0,4,17,0.31,50.0,4,3,1,1,1,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,80,0
+Brent Naden,3,Centre,80,0,0,0,0,0,0,0,0,6,37,0,12,0,0,0,0,1,0,0,2.98,0,0,0,0,0,3,7,0.5,60.0,12,7,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,80,0
+Starford To'a,4,Centre,80,0,0,0,0,0,0,0,39,11,105,0,33,0,1,0,0,4,0,0,2.96,0,0,0,2,0,2,12,0.18,77.27,17,3,2,0,0,1,11,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Junior Tupou,5,Winger,80,0,0,0,0,0,0,0,4,8,48,3,22,0,0,0,0,2,0,0,3.54,0,0,0,0,0,1,10,0.13,33.33,2,2,2,0,2,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,80,0
+Daine Laurie,6,Five-Eighth,80,0,0,0,0,0,0,0,37,13,110,0,21,0,0,0,0,6,0,0,4.06,2,21,0,0,0,21,34,1.62,76.67,23,2,5,0,0,2,47,0,0,1,0,0,0,0,3,2,0,0,0,0,0,0,0,80,0
+Brandon Wakeham,7,Halfback,80,0,0,0,0,0,0,0,24,3,9,5,3,0,0,0,0,0,0,0,4.44,0,0,0,0,0,36,49,12.0,80.0,28,5,2,0,2,8,293,0,1,0,0,0,0,0,2,2,0,1,1,0,0,0,0,80,0
+Stefano Utoikamanu,8,Prop,42,0,0,0,0,0,0,0,32,10,71,0,30,0,0,0,0,2,9,0,3.11,0,0,0,0,0,2,11,0.2,83.33,25,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,24
+Jake Simpkin,9,Hooker,46,0,0,0,0,0,0,0,38,7,59,0,12,0,0,0,0,2,1,0,3.95,5,47,0,0,0,37,42,5.29,90.24,37,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,26,20
+David Klemmer,10,Prop,45,0,0,0,0,0,0,0,34,11,113,0,46,0,0,0,0,2,11,0,3.44,0,0,0,0,0,7,18,0.64,95.83,23,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,20,24
+Isaiah Papali'i,11,2nd Row,80,0,0,0,0,0,0,0,44,8,64,5,29,0,0,0,0,0,7,0,3.31,0,0,0,0,0,2,10,0.25,86.0,43,3,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Shawn Blore,12,2nd Row,80,0,0,0,0,0,0,0,51,5,53,0,29,0,0,0,0,1,5,0,3.43,0,0,0,2,0,1,8,0.2,87.5,42,5,1,0,0,1,17,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,80,0
+John Bateman,13,Lock,54,0,0,0,0,0,0,0,33,5,33,0,11,0,0,0,0,1,4,0,3.3,0,0,0,1,0,7,12,1.4,86.49,32,4,1,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,54,0

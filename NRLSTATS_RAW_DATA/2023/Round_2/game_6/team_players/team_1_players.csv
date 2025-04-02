@@ -1,0 +1,14 @@
+Player,Number,Position,MinsPlayed,Points,Tries,Conversions,Conversion Attempts,PenaltyGoals,Goal ConversionRate,1 Point FieldGoals,2 Point FieldGoals,TotalPoints,AllRuns,All RunMetres,Kick ReturnMetres,Post ContactMetres,LineBreaks,Line BreakAssists,TryAssists,Line EngagedRuns,TackleBreaks,HitUps,Play TheBall,Average Play The BallSpeed,Dummy HalfRuns,Dummy Half RunMetres,One on OneSteal,Offloads,DummyPasses,Passes,Receipts,Passes To RunRatio,Tackle Efficiency,TacklesMade,MissedTackles,Ineffective Tackles,Intercepts,KicksDefused,Kicks,KickingMetres,Forced DropOuts,BombKicks,Grubbers,40/20,20/40,Cross FieldKicks,KickedDead,Errors,Handling Errors,One on OneLost,Penalties,Ruck Infringements,Inside 10Metres,OnReport,SinBins,SendOffs,StintOne,StintTwo
+Nick Meaney,1,Fullback,80,4,0,2,2,0,100.0,0,0,30,17,143,30,55,0,0,0,0,3,0,0,3.42,2,24,0,1,0,17,36,1.0,66.67,4,1,1,0,4,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,80,0
+Will Warbrick,2,Winger,80,0,0,0,0,0,0.0,0,0,30,15,146,18,63,0,0,0,0,5,1,0,3.24,1,7,0,0,0,0,19,0.0,80.0,8,2,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,80,0
+Reimis Smith,3,Centre,80,0,0,0,0,0,0.0,0,0,26,8,75,0,24,0,0,0,0,0,0,0,3.57,0,0,0,1,0,2,10,0.25,83.33,15,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Young Tonumaipea,4,Centre,70,0,0,0,0,0,0.0,0,0,13,10,81,0,30,0,1,0,0,2,0,0,3.85,1,4,0,0,0,3,8,0.3,80.0,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,70,0
+Tyran Wishart,6,Five-Eighth,80,0,0,0,0,0,0.0,0,0,22,16,128,17,34,0,0,0,0,3,0,0,3.66,1,8,0,1,5,26,39,1.63,58.82,20,10,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Jahrome Hughes,7,Halfback,80,4,1,0,0,0,0.0,0,0,78,21,146,5,33,2,2,0,0,6,0,0,4.53,0,0,0,3,4,30,58,1.43,83.33,15,2,1,0,0,14,458,1,5,3,0,0,0,1,1,1,0,3,0,0,0,0,0,80,0
+Nelson Asofa-Solomona,8,Prop,31,4,1,0,0,0,0.0,0,0,53,11,113,12,52,1,0,0,0,6,10,0,2.31,0,0,0,2,0,0,11,0.0,80.0,16,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,9
+Harry Grant,9,Hooker,80,0,0,0,0,0,0.0,0,0,64,9,87,8,24,0,1,1,0,4,1,0,4.19,4,42,0,0,1,111,121,12.33,82.46,47,7,3,0,1,6,110,1,0,4,0,0,0,1,0,0,0,2,0,0,0,0,0,80,0
+Christian Welch,10,Prop,62,0,0,0,0,0,0.0,0,0,54,18,154,0,55,0,0,0,0,0,15,0,3.22,0,0,0,3,2,10,26,0.56,86.84,33,4,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,28,33
+Trent Loiero,11,2nd Row,80,0,0,0,0,0,0.0,0,0,41,11,92,0,40,0,0,0,0,2,11,0,3.48,0,0,0,0,0,1,13,0.09,77.55,38,6,5,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,80,0
+Eliesa Katoa,12,2nd Row,80,0,0,0,0,0,0.0,0,0,63,10,160,0,46,3,0,0,0,3,7,0,4.05,0,0,0,3,0,4,14,0.4,85.71,24,4,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,80,0
+Josh King,13,Lock,63,0,0,0,0,0,0.0,0,0,49,12,103,0,44,0,0,0,0,1,10,0,3.24,0,0,0,1,0,1,12,0.08,90.24,37,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,7
+Bronson Garlick,14,Interchange,25,0,0,0,0,0,0.0,0,0,39,7,64,0,19,0,0,0,0,1,6,0,3.73,0,0,0,1,0,4,11,0.57,95.83,23,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0

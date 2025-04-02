@@ -1,0 +1,14 @@
+Player,Number,Position,MinsPlayed,Points,Tries,Conversions,Conversion Attempts,PenaltyGoals,Goal ConversionRate,1 Point FieldGoals,2 Point FieldGoals,TotalPoints,AllRuns,All RunMetres,Kick ReturnMetres,Post ContactMetres,LineBreaks,Line BreakAssists,TryAssists,Line EngagedRuns,TackleBreaks,HitUps,Play TheBall,Average Play The BallSpeed,Dummy HalfRuns,Dummy Half RunMetres,One on OneSteal,Offloads,DummyPasses,Passes,Receipts,Passes To RunRatio,Tackle Efficiency,TacklesMade,MissedTackles,Ineffective Tackles,Intercepts,KicksDefused,Kicks,KickingMetres,Forced DropOuts,BombKicks,Grubbers,40/20,20/40,Cross FieldKicks,KickedDead,Errors,Handling Errors,One on OneLost,Penalties,Ruck Infringements,Inside 10Metres,OnReport,SinBins,SendOffs,StintOne,StintTwo
+Tom Trbojevic,1,Fullback,80,12,3,0,0,0,0.0,0,0,105,20,245,23,34,3,2,1,0,9,0,0,3.94,0,0,0,2,3,17,35,0.85,100.0,6,0,0,0,3,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,80,0
+Jason Saab,2,Winger,80,4,1,0,0,0,0.0,0,0,37,7,144,0,27,1,0,1,0,2,0,0,4.9,0,0,0,0,0,3,11,0.43,100.0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,80,0
+Brad Parker,3,Centre,79,4,1,0,0,0,0.0,0,0,32,9,78,0,19,1,0,0,0,7,0,0,4.19,0,0,0,0,1,8,13,0.89,45.45,5,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,79,0
+Tolutau Koula,4,Centre,80,0,0,0,0,0,0.0,0,0,31,13,115,0,31,0,0,0,0,6,0,0,3.29,1,3,0,0,0,5,17,0.38,77.27,17,4,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,80,0
+Reuben Garrick,5,Winger,80,14,1,5,8,0,62.5,0,0,58,15,168,9,31,2,0,1,0,4,1,0,4.22,1,0,0,0,0,9,21,0.6,100.0,4,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,80,0
+Joshua Schuster,6,Five-Eighth,80,4,1,0,0,0,0.0,0,0,51,8,51,0,3,0,3,3,0,1,0,0,6.88,0,0,0,1,3,35,45,4.38,66.67,12,2,4,0,0,6,94,1,3,1,0,0,1,0,1,1,0,0,0,0,0,0,0,80,0
+Daly Cherry-Evans,7,Halfback,80,0,0,0,0,0,0.0,0,0,36,5,34,0,1,0,1,0,0,4,0,0,3.84,2,13,0,0,0,41,52,8.2,85.0,17,2,1,0,0,10,314,0,2,1,1,0,1,1,1,1,0,1,0,0,0,0,0,80,0
+Taniela Paseka,8,Prop,61,0,0,0,0,0,0.0,0,0,44,20,229,46,88,0,0,0,0,1,17,0,3.44,0,0,0,2,0,0,20,0.0,78.79,26,6,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,21,39
+Lachlan Croker,9,Hooker,69,0,0,0,0,0,0.0,0,0,47,3,15,0,3,0,0,0,0,0,1,0,4.38,1,8,0,1,4,82,86,27.33,89.13,41,1,4,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,56,12
+Sean Keppie,10,Prop,40,0,0,0,0,0,0.0,0,0,20,11,101,42,38,0,0,0,0,1,8,0,4.01,0,0,0,0,0,0,11,0.0,78.57,22,3,3,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,0,7,18
+Haumole Olakau'atu,11,2nd Row,80,0,0,0,0,0,0.0,0,0,29,6,69,0,17,0,0,0,0,3,6,0,3.67,0,0,0,1,0,3,9,0.5,79.31,23,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,80,0
+Ben Trbojevic,12,2nd Row,27,0,0,0,0,0,0.0,0,0,8,5,41,0,14,0,0,0,0,1,5,0,3.84,0,0,0,0,0,3,9,0.6,66.67,6,0,3,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,27,0
+Jake Trbojevic,13,Lock,58,0,0,0,0,0,0.0,0,0,47,11,81,0,10,0,0,0,0,1,6,0,3.68,0,0,0,0,0,26,31,2.36,86.11,31,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,57,0

@@ -1,0 +1,14 @@
+Player,Number,Position,MinsPlayed,Points,Tries,Conversions,Conversion Attempts,PenaltyGoals,Goal ConversionRate,1 Point FieldGoals,2 Point FieldGoals,TotalPoints,AllRuns,All RunMetres,Kick ReturnMetres,Post ContactMetres,LineBreaks,Line BreakAssists,TryAssists,Line EngagedRuns,TackleBreaks,HitUps,Play TheBall,Average Play The BallSpeed,Dummy HalfRuns,Dummy Half RunMetres,One on OneSteal,Offloads,DummyPasses,Passes,Receipts,Passes To RunRatio,Tackle Efficiency,TacklesMade,MissedTackles,Ineffective Tackles,Intercepts,KicksDefused,Kicks,KickingMetres,Forced DropOuts,BombKicks,Grubbers,40/20,20/40,Cross FieldKicks,KickedDead,Errors,Handling Errors,One on OneLost,Penalties,Ruck Infringements,Inside 10Metres,OnReport,SinBins,SendOffs,StintOne,StintTwo
+Nick Meaney,1,Fullback,80,4,0,2,6,0,33.33,0,0,44,18,177,30,45,0,1,1,0,3,0,0,3.67,2,17,0,1,0,23,38,1.28,100.0,4,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Will Warbrick,2,Winger,80,16,4,0,0,0,0.0,0,0,70,16,156,20,43,3,0,0,0,2,0,0,3.93,1,17,0,0,0,1,21,0.06,77.78,7,0,2,0,2,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,80,0
+Reimis Smith,3,Centre,80,0,0,0,0,0,0.0,0,0,34,13,133,0,41,0,2,2,0,2,0,0,3.18,1,11,0,0,1,4,18,0.31,57.89,11,2,6,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,80,0
+Marion Seve,4,Centre,72,0,0,0,0,0,0.0,0,0,41,13,146,0,58,0,0,0,0,1,0,0,3.39,0,0,0,2,0,2,15,0.15,86.36,19,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,72,0
+George Jennings,5,Winger,80,0,0,0,0,0,0.0,0,0,29,19,198,48,65,0,0,0,0,3,0,0,3.95,0,0,0,1,0,0,21,0.0,66.67,2,1,0,0,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,80,0
+Jonah Pezet,6,Five-Eighth,80,0,0,0,0,0,0.0,0,0,31,6,41,0,5,0,0,1,0,1,0,0,4.1,0,0,0,0,3,47,56,7.83,80.77,21,4,1,0,0,6,220,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,80,0
+Jahrome Hughes,7,Halfback,80,0,0,0,0,0,0.0,0,0,32,13,111,0,24,0,0,2,0,0,0,0,3.3,0,0,0,0,3,44,69,3.38,53.85,7,5,1,0,0,17,474,1,5,3,0,0,1,0,1,0,0,0,1,0,0,0,0,80,0
+Tui Kamikamica,8,Prop,47,0,0,0,0,0,0.0,0,0,38,13,147,11,66,0,0,0,0,0,12,0,3.64,0,0,0,0,1,1,15,0.08,96.15,25,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47,0
+Bronson Garlick,9,Hooker,46,0,0,0,0,0,0.0,0,0,24,6,52,0,13,0,0,0,0,0,3,0,3.19,2,14,0,0,0,40,45,6.67,87.1,27,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,29,16
+Nelson Asofa-Solomona,10,Prop,58,0,0,0,0,0,0.0,0,0,31,11,126,0,50,0,0,0,0,5,11,0,2.63,0,0,0,0,0,5,16,0.45,80.0,16,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,58,0
+Trent Loiero,11,2nd Row,80,0,0,0,0,0,0.0,0,0,28,9,66,0,26,0,0,0,0,2,9,0,3.14,0,0,0,1,0,1,10,0.11,76.19,32,8,2,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,80,0
+Tariq Sims,12,Interchange,33,0,0,0,0,0,0.0,0,0,20,7,89,18,35,0,0,0,0,0,6,0,3.45,0,0,0,0,1,3,10,0.43,100.0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,33,0
+Josh King,13,Lock,73,0,0,0,0,0,0.0,0,0,45,12,136,27,54,0,0,0,0,1,10,0,3.39,0,0,0,0,2,11,23,0.92,88.37,38,3,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,63,9

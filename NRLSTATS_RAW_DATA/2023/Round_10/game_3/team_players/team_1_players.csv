@@ -1,0 +1,14 @@
+Player,Number,Position,MinsPlayed,Points,Tries,Conversions,Conversion Attempts,PenaltyGoals,Goal ConversionRate,1 Point FieldGoals,2 Point FieldGoals,TotalPoints,AllRuns,All RunMetres,Kick ReturnMetres,Post ContactMetres,LineBreaks,Line BreakAssists,TryAssists,Line EngagedRuns,TackleBreaks,HitUps,Play TheBall,Average Play The BallSpeed,Dummy HalfRuns,Dummy Half RunMetres,One on OneSteal,Offloads,DummyPasses,Passes,Receipts,Passes To RunRatio,Tackle Efficiency,TacklesMade,MissedTackles,Ineffective Tackles,Intercepts,KicksDefused,Kicks,KickingMetres,Forced DropOuts,BombKicks,Grubbers,40/20,20/40,Cross FieldKicks,KickedDead,Errors,Handling Errors,One on OneLost,Penalties,Ruck Infringements,Inside 10Metres,OnReport,SinBins,SendOffs,StintOne,StintTwo
+Charnze Nicoll-Klokstad,1,Fullback,80,0,0,0,0,0,0.0,0,0,29,25,191,42,43,0,0,0,0,3,1,0,2.75,0,0,0,1,1,13,39,0.52,62.5,5,2,1,0,3,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,80,0
+Dallin Watene-Zelezniak,2,Winger,67,0,0,0,0,0,0.0,0,0,33,16,137,0,39,1,0,0,0,5,0,0,2.93,1,7,0,1,1,1,18,0.06,75.0,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,64,2
+Marcelo Montoya,3,Centre,80,0,0,0,0,0,0.0,0,0,35,21,196,70,46,0,0,0,0,4,0,0,3.36,0,0,0,0,0,3,23,0.14,87.5,7,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Adam Pompey,4,Centre,80,0,0,0,0,0,0.0,0,0,38,19,138,7,52,0,1,0,0,8,0,0,3.14,0,0,0,2,1,8,27,0.42,62.5,5,3,0,0,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,80,0
+Edward Kosi,5,Winger,31,0,0,0,0,0,0.0,0,0,8,5,37,30,4,0,0,0,0,1,0,0,3.26,0,0,0,0,0,2,8,0.4,100.0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,29,0
+Dylan Walker,6,Five-Eighth,78,0,0,0,0,0,0.0,0,0,26,6,32,0,6,0,1,0,0,1,0,0,2.8,0,0,0,2,4,28,36,4.67,80.0,24,4,2,0,0,2,10,0,0,1,0,0,0,0,2,1,0,0,1,0,0,0,0,77,0
+Shaun Johnson,7,Halfback,80,2,0,1,1,0,100.0,0,0,67,3,45,0,0,2,0,0,0,3,0,0,5.08,0,0,0,0,1,56,82,18.67,76.67,23,4,3,0,0,25,841,2,2,6,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Addin Fonua-Blake,8,Prop,67,4,1,0,0,0,0.0,0,0,67,14,131,0,37,1,0,0,0,2,14,0,2.48,0,0,0,3,0,6,20,0.43,89.74,35,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,46,20
+Wayde Egan,9,Interchange,59,0,0,0,0,0,0.0,0,0,30,8,45,0,11,0,1,0,0,1,5,0,4.39,3,9,0,0,5,73,80,9.13,79.07,34,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,59,0
+Bunty Afoa,10,Prop,40,0,0,0,0,0,0.0,0,0,32,9,103,69,25,0,0,0,0,3,5,0,3.16,0,0,0,0,0,1,10,0.11,86.67,26,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,26,13
+Jackson Ford,11,2nd Row,50,0,0,0,0,0,0.0,0,0,32,7,95,0,18,1,0,0,0,5,7,0,2.97,0,0,0,0,0,0,7,0.0,73.17,30,6,5,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,1,0,59,0
+Marata Niukore,12,2nd Row,80,0,0,0,0,0,0.0,0,0,28,9,67,0,23,0,0,0,0,1,5,0,3.0,0,0,0,0,1,2,10,0.22,81.58,31,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,80,0
+Tohu Harris,13,Lock,80,0,0,0,0,0,0.0,0,0,64,21,155,0,50,0,1,1,0,2,13,0,2.77,0,0,0,0,6,24,38,1.14,88.89,48,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,80,0

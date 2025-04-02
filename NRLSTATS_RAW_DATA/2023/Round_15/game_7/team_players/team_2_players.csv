@@ -1,0 +1,14 @@
+Player,Number,Position,MinsPlayed,Points,Tries,Conversions,Conversion Attempts,PenaltyGoals,Goal ConversionRate,1 Point FieldGoals,2 Point FieldGoals,TotalPoints,AllRuns,All RunMetres,Kick ReturnMetres,Post ContactMetres,LineBreaks,Line BreakAssists,TryAssists,Line EngagedRuns,TackleBreaks,HitUps,Play TheBall,Average Play The BallSpeed,Dummy HalfRuns,Dummy Half RunMetres,One on OneSteal,Offloads,DummyPasses,Passes,Receipts,Passes To RunRatio,Tackle Efficiency,TacklesMade,MissedTackles,Ineffective Tackles,Intercepts,KicksDefused,Kicks,KickingMetres,Forced DropOuts,BombKicks,Grubbers,40/20,20/40,Cross FieldKicks,KickedDead,Errors,Handling Errors,One on OneLost,Penalties,Ruck Infringements,Inside 10Metres,OnReport,SinBins,SendOffs,StintOne,StintTwo
+William Kennedy,1,Fullback,80,0,0,0,0,0,0.0,0,0,14,11,122,54,24,1,0,0,0,2,0,0,3.46,0,0,0,1,1,6,16,0.55,40.0,4,5,1,0,2,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,80,0
+Sione Katoa,2,Winger,80,0,0,0,0,0,0.0,0,0,7,6,37,0,7,0,0,0,0,2,0,0,3.45,0,0,0,0,0,0,9,0.0,55.56,5,2,2,0,3,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,80,0
+Jesse Ramien,3,Centre,80,0,0,0,0,0,0.0,0,0,17,9,67,0,19,0,0,0,0,1,1,0,3.65,0,0,0,0,1,2,9,0.22,83.33,15,2,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,80,0
+Siosifa Talakai,4,Centre,80,0,0,0,0,0,0.0,0,0,31,18,169,0,66,0,1,0,0,4,2,0,3.79,0,0,0,1,0,1,19,0.06,73.33,11,2,2,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,80,0
+Ronaldo Mulitalo,5,Winger,80,4,1,0,0,0,0.0,0,0,45,15,132,40,31,2,0,1,0,2,0,0,3.63,0,0,0,0,0,4,17,0.27,80.0,4,1,0,0,2,1,32,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Matt Moylan,6,Five-Eighth,78,0,0,0,0,0,0.0,0,0,13,4,32,0,13,0,0,1,0,1,0,0,4.23,0,0,0,0,4,21,29,5.25,67.5,27,10,3,0,0,4,67,0,2,0,0,0,1,0,0,0,0,3,0,0,0,0,0,77,0
+Nicholas Hynes,7,Halfback,80,2,0,1,2,0,33.33,0,0,62,14,107,0,10,0,0,0,0,2,0,0,0.0,1,13,0,3,3,27,42,1.93,85.19,23,1,3,1,0,10,331,0,2,0,0,0,2,0,1,1,0,1,0,0,0,0,0,80,0
+Oregon Kaufusi,8,Interchange,40,0,0,0,0,0,0.0,0,0,21,3,11,0,4,0,0,0,0,0,3,0,3.4,0,0,0,1,0,3,7,1.0,82.76,24,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,4
+Blayke Brailey,9,Hooker,74,0,0,0,0,0,0.0,0,0,31,4,21,0,7,0,0,0,0,0,1,0,3.2,3,21,0,2,1,75,79,18.75,77.78,35,5,5,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,74,0
+Royce Hunt,10,Prop,35,0,0,0,0,0,0.0,0,0,25,6,47,0,21,0,0,0,0,0,6,0,4.33,0,0,0,1,0,0,6,0.0,85.0,17,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,9
+Briton Nikora,11,2nd Row,79,0,0,0,0,0,0.0,0,0,42,8,69,0,18,0,1,0,0,3,6,0,2.63,0,0,0,1,0,5,12,0.63,82.46,47,6,4,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0,0,0,1,0,79,0
+Teig Wilton,12,2nd Row,67,4,1,0,0,0,0.0,0,0,43,10,88,0,29,0,0,0,0,3,8,0,4.12,0,0,0,0,0,1,10,0.1,81.58,31,4,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,67,0
+Dale Finucane,13,Lock,43,0,0,0,0,0,0.0,0,0,24,10,95,0,34,0,0,0,0,0,10,0,3.81,0,0,0,0,1,4,15,0.4,89.29,25,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,30,12

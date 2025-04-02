@@ -1,0 +1,14 @@
+Player,Number,Position,MinsPlayed,Points,Tries,Conversions,Conversion Attempts,PenaltyGoals,Goal ConversionRate,1 Point FieldGoals,2 Point FieldGoals,TotalPoints,AllRuns,All RunMetres,Kick ReturnMetres,Post ContactMetres,LineBreaks,Line BreakAssists,TryAssists,Line EngagedRuns,TackleBreaks,HitUps,Play TheBall,Average Play The BallSpeed,Dummy HalfRuns,Dummy Half RunMetres,One on OneSteal,Offloads,DummyPasses,Passes,Receipts,Passes To RunRatio,Tackle Efficiency,TacklesMade,MissedTackles,Ineffective Tackles,Intercepts,KicksDefused,Kicks,KickingMetres,Forced DropOuts,BombKicks,Grubbers,40/20,20/40,Cross FieldKicks,KickedDead,Errors,Handling Errors,One on OneLost,Penalties,Ruck Infringements,Inside 10Metres,OnReport,SinBins,SendOffs,StintOne,StintTwo
+William Kennedy,1,Fullback,80,0,0,0,0,0,0.0,0,0,35,13,158,147,23,1,0,1,0,5,0,0,3.65,0,0,0,0,2,11,24,0.85,66.67,4,2,0,0,3,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,80,0
+Sione Katoa,2,Winger,80,0,0,0,0,0,0.0,0,0,24,15,115,25,25,1,0,0,0,6,1,0,3.48,0,0,0,1,0,2,17,0.13,25.0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,80,0
+Jesse Ramien,3,Centre,80,4,1,0,0,0,0.0,0,0,33,10,133,0,26,0,1,0,0,3,0,0,3.45,0,0,0,0,0,7,16,0.7,57.14,8,4,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Siosifa Talakai,4,Centre,80,0,0,0,0,0,0.0,0,0,24,15,178,0,62,1,0,0,0,5,1,0,2.77,0,0,0,0,0,2,16,0.13,42.86,3,3,1,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,80,0
+Ronaldo Mulitalo,5,Winger,80,4,1,0,0,0,0.0,0,0,34,12,121,19,29,0,0,0,0,1,0,0,3.08,0,0,0,1,0,3,15,0.25,85.71,6,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Matt Moylan,6,Five-Eighth,80,0,0,0,0,0,0.0,0,0,15,6,33,0,7,0,0,0,0,0,0,0,2.77,0,0,0,1,2,27,33,4.5,87.5,14,2,0,0,0,2,43,0,2,0,0,0,0,0,1,1,0,0,1,0,0,0,0,80,0
+Nicholas Hynes,7,Halfback,80,16,0,7,8,1,88.89,0,0,88,21,236,8,35,0,3,2,0,3,0,0,3.62,0,0,0,1,6,42,67,2.0,85.0,17,3,0,0,2,16,430,1,8,1,0,0,1,0,3,2,0,0,0,0,0,0,0,80,0
+Oregon Kaufusi,8,Prop,41,0,0,0,0,0,0.0,0,0,25,10,100,27,41,0,0,0,0,0,7,0,3.03,0,0,0,1,1,0,10,0.0,82.61,19,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,26,14
+Blayke Brailey,9,Hooker,66,0,0,0,0,0,0.0,0,0,48,8,66,0,9,0,3,3,0,1,0,0,3.23,7,60,0,0,2,97,101,12.13,80.65,25,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65,0
+Braden Hamlin-Uele,10,Prop,38,4,1,0,0,0,0.0,0,0,50,11,104,0,43,1,0,0,0,6,11,0,2.59,0,0,0,1,0,1,12,0.09,94.12,16,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,27,10
+Briton Nikora,11,2nd Row,80,4,1,0,0,0,0.0,0,0,61,11,112,0,33,2,0,0,0,4,10,0,2.82,0,0,0,0,1,2,12,0.18,80.95,34,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,80,0
+Teig Wilton,12,2nd Row,80,4,1,0,0,0,0.0,0,0,54,10,85,0,23,1,1,0,0,3,9,0,3.9,0,0,0,0,0,2,11,0.2,91.43,32,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,80,0
+Dale Finucane,13,Lock,52,0,0,0,0,0,0.0,0,0,40,14,144,0,53,0,0,0,0,2,14,0,3.41,0,0,0,0,0,3,18,0.21,88.0,22,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46,5

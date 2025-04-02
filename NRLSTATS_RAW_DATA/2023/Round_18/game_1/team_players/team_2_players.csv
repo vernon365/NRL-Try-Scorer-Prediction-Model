@@ -1,0 +1,14 @@
+Player,Number,Position,MinsPlayed,Points,Tries,Conversions,Conversion Attempts,PenaltyGoals,Goal ConversionRate,1 Point FieldGoals,2 Point FieldGoals,TotalPoints,AllRuns,All RunMetres,Kick ReturnMetres,Post ContactMetres,LineBreaks,Line BreakAssists,TryAssists,Line EngagedRuns,TackleBreaks,HitUps,Play TheBall,Average Play The BallSpeed,Dummy HalfRuns,Dummy Half RunMetres,One on OneSteal,Offloads,DummyPasses,Passes,Receipts,Passes To RunRatio,Tackle Efficiency,TacklesMade,MissedTackles,Ineffective Tackles,Intercepts,KicksDefused,Kicks,KickingMetres,Forced DropOuts,BombKicks,Grubbers,40/20,20/40,Cross FieldKicks,KickedDead,Errors,Handling Errors,One on OneLost,Penalties,Ruck Infringements,Inside 10Metres,OnReport,SinBins,SendOffs,StintOne,StintTwo
+Tyrell Sloan,1,Fullback,80,4,1,0,0,0,0.0,0,0,61,12,178,31,25,1,0,0,0,4,0,0,3.73,2,26,0,1,0,8,20,0.67,81.25,13,3,0,0,2,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,80,0
+Mathew Feagai,2,Winger,80,0,0,0,0,0,0.0,0,0,35,11,119,0,40,1,1,1,0,3,0,0,3.76,0,0,0,0,0,3,12,0.27,77.27,17,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,80,0
+Tautau Moga,3,Centre,80,4,1,0,0,0,0.0,0,0,18,10,79,20,23,1,0,0,0,3,0,0,3.1,0,0,0,0,0,1,13,0.1,60.0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,2,1,0,2,0,0,1,0,0,80,0
+Zac Lomax,4,Centre,80,4,0,2,3,0,66.67,0,0,46,9,69,0,27,0,0,0,0,1,0,0,3.48,0,0,0,0,0,3,13,0.33,96.55,28,1,0,0,0,1,23,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,80,0
+Mikaele Ravalawa,5,Winger,80,4,1,0,0,0,0.0,0,0,23,13,96,42,17,1,0,0,0,1,0,0,3.93,0,0,0,0,0,1,16,0.08,100.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,80,0
+Jayden Sullivan,6,Five-Eighth,80,0,0,0,0,0,0.0,0,0,27,3,22,0,6,0,0,0,0,1,0,0,3.56,0,0,0,0,2,21,28,7.0,89.66,26,2,1,0,0,5,126,0,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,80,0
+Ben Hunt,7,Halfback,80,0,0,0,0,0,0.0,0,0,42,10,45,0,4,0,0,0,0,0,0,0,3.16,1,8,0,2,5,23,35,2.3,95.24,20,1,0,0,1,11,396,0,4,1,0,0,0,0,1,0,0,0,0,0,0,0,0,80,0
+Francis Molo,8,Prop,46,0,0,0,0,0,0.0,0,0,42,13,100,0,43,0,0,0,0,3,13,0,4.03,0,0,0,0,0,2,15,0.15,100.0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,18,27
+Jacob Liddle,9,Hooker,57,0,0,0,0,0,0.0,0,0,35,3,17,0,5,0,1,1,0,0,0,0,4.04,3,17,0,0,1,68,72,22.67,84.78,39,5,2,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,56,0
+Blake Lawrie,10,Prop,42,0,0,0,0,0,0.0,0,0,39,11,85,0,23,0,0,0,0,1,10,0,3.65,0,0,0,0,0,4,14,0.36,89.74,35,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,21,10
+Ben Murdoch-Masila,11,2nd Row,80,0,0,0,0,0,0.0,0,0,35,5,39,0,17,0,0,0,0,1,5,0,3.5,0,0,0,1,0,0,5,0.0,85.71,30,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Jaydn Su'a,12,2nd Row,78,0,0,0,0,0,0.0,0,0,38,10,77,0,22,0,0,0,0,1,9,0,3.32,0,0,0,1,0,1,10,0.1,87.5,35,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,77,0
+Jack De Belin,13,Lock,80,0,0,0,0,0,0.0,0,0,65,10,82,0,21,0,0,0,0,2,6,0,3.05,0,0,0,0,0,8,14,0.8,98.25,56,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,80,0

@@ -1,0 +1,14 @@
+Player,Number,Position,MinsPlayed,Points,Tries,Conversions,Conversion Attempts,PenaltyGoals,Goal ConversionRate,1 Point FieldGoals,2 Point FieldGoals,TotalPoints,AllRuns,All RunMetres,Kick ReturnMetres,Post ContactMetres,LineBreaks,Line BreakAssists,TryAssists,Line EngagedRuns,TackleBreaks,HitUps,Play TheBall,Average Play The BallSpeed,Dummy HalfRuns,Dummy Half RunMetres,One on OneSteal,Offloads,DummyPasses,Passes,Receipts,Passes To RunRatio,Tackle Efficiency,TacklesMade,MissedTackles,Ineffective Tackles,Intercepts,KicksDefused,Kicks,KickingMetres,Forced DropOuts,BombKicks,Grubbers,40/20,20/40,Cross FieldKicks,KickedDead,Errors,Handling Errors,One on OneLost,Penalties,Ruck Infringements,Inside 10Metres,OnReport,SinBins,SendOffs,StintOne,StintTwo
+Reece Walsh,1,Fullback,80,4,0,2,3,0,66.67,0,0,70,20,182,49,15,1,1,1,0,6,1,0,4.62,0,0,0,2,3,21,36,1.05,100.0,4,0,0,0,3,5,167,1,0,1,0,0,0,0,1,1,0,2,0,0,0,0,0,80,0
+Jesse Arthars,2,Winger,80,4,1,0,0,0,0.0,0,0,29,11,108,43,32,1,0,0,0,2,3,0,3.74,0,0,0,0,0,4,14,0.36,81.82,9,1,1,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,80,0
+Kotoni Staggs,3,Centre,80,0,0,0,0,0,0.0,0,0,35,16,113,0,42,0,1,0,0,4,3,0,3.86,1,7,0,1,1,12,22,0.75,84.21,16,2,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,80,0
+Herbie Farnworth,4,Centre,71,4,1,0,0,0,0.0,0,0,34,13,126,0,52,0,0,0,0,1,1,0,3.79,0,0,0,0,1,4,16,0.31,95.65,22,1,0,0,0,1,22,0,0,1,0,0,0,0,1,1,0,2,1,0,0,1,0,71,0
+Selwyn Cobbo,5,Winger,80,0,0,0,0,0,0.0,0,0,41,19,170,14,30,1,0,0,0,7,2,0,3.25,1,4,0,0,0,5,23,0.26,100.0,4,0,0,0,4,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,80,0
+Ezra Mam,6,Five-Eighth,80,0,0,0,0,0,0.0,0,0,43,15,96,0,11,0,0,0,0,2,0,0,5.02,0,0,0,0,2,25,37,1.67,87.5,21,3,0,0,0,7,197,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,80,0
+Adam Reynolds,7,Halfback,17,0,0,0,0,0,0.0,0,0,10,3,15,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,1,9,13,3.0,100.0,6,0,0,0,0,4,119,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0
+Thomas Flegler,8,Prop,66,0,0,0,0,0,0.0,0,0,42,14,121,22,38,0,0,0,0,0,12,0,4.04,0,0,0,0,0,0,14,0.0,91.11,41,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,50,18
+Billy Walters,9,Hooker,80,0,0,0,0,0,0.0,0,0,36,7,25,0,5,0,0,0,0,3,4,0,4.55,2,15,0,2,3,94,101,13.43,89.66,26,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,80,0
+Payne Haas,10,Prop,64,0,0,0,0,0,0.0,0,0,86,27,243,0,75,1,0,0,0,8,21,0,3.34,0,0,0,3,1,9,29,0.33,90.91,30,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,29
+Kurt Capewell,11,2nd Row,80,0,0,0,0,0,0.0,0,0,38,8,58,0,19,0,0,0,0,0,8,0,2.63,0,0,0,0,1,1,9,0.13,92.11,35,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,80,0
+Jordan Riki,12,2nd Row,80,0,0,0,0,0,0.0,0,0,38,5,40,0,16,0,0,0,0,0,5,0,3.18,0,0,0,0,1,4,9,0.8,85.71,42,3,4,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,80,0
+Patrick Carrigan,13,Lock,71,0,0,0,0,0,0.0,0,0,55,26,221,17,47,0,1,0,0,1,16,0,3.09,0,0,0,1,4,11,28,0.42,86.0,43,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,1,1,0,71,0

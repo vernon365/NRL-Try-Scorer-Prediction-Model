@@ -1,0 +1,14 @@
+Player,Number,Position,MinsPlayed,Points,Tries,Conversions,Conversion Attempts,PenaltyGoals,Goal ConversionRate,1 Point FieldGoals,2 Point FieldGoals,TotalPoints,AllRuns,All RunMetres,Kick ReturnMetres,Post ContactMetres,LineBreaks,Line BreakAssists,TryAssists,Line EngagedRuns,TackleBreaks,HitUps,Play TheBall,Average Play The BallSpeed,Dummy HalfRuns,Dummy Half RunMetres,One on OneSteal,Offloads,DummyPasses,Passes,Receipts,Passes To RunRatio,Tackle Efficiency,TacklesMade,MissedTackles,Ineffective Tackles,Intercepts,KicksDefused,Kicks,KickingMetres,Forced DropOuts,BombKicks,Grubbers,40/20,20/40,Cross FieldKicks,KickedDead,Errors,Handling Errors,One on OneLost,Penalties,Ruck Infringements,Inside 10Metres,OnReport,SinBins,SendOffs,StintOne,StintTwo
+Clinton Gutherson,1,Fullback,80,0,0,0,0,0,0.0,0,0,35,21,266,110,70,1,0,0,0,2,0,0,3.71,2,26,0,0,0,31,50,1.48,80.0,4,1,0,0,3,1,10,0,0,1,0,0,0,0,3,3,0,0,0,0,0,0,0,80,0
+Maika Sivo,2,Winger,80,4,1,0,0,0,0.0,0,0,41,22,220,79,52,2,0,0,0,1,1,0,4.3,0,0,0,0,0,3,26,0.14,60.0,3,2,0,0,4,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,80,0
+Will Penisini,3,Centre,80,0,0,0,0,0,0.0,0,0,57,11,121,0,37,0,2,1,0,8,0,0,3.27,0,0,0,1,1,2,11,0.18,94.74,18,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Bailey Simonsson,4,Centre,80,0,0,0,0,0,0.0,0,0,42,20,169,0,43,0,2,1,0,7,1,0,3.96,0,0,0,0,0,6,28,0.3,86.67,13,1,1,0,0,0,0,0,0,0,0,0,0,0,4,3,0,0,0,0,0,0,0,80,0
+Sean Russell,5,Winger,80,4,1,0,0,0,0.0,0,0,44,21,192,24,51,1,0,0,0,2,5,0,3.72,0,0,0,0,0,0,21,0.0,100.0,9,0,0,0,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,80,0
+Dylan Brown,6,Five-Eighth,80,0,0,0,0,0,0.0,0,0,65,18,155,8,30,0,1,1,0,0,0,0,4.49,0,0,0,1,0,37,53,2.06,85.71,36,3,3,0,0,5,68,0,1,1,0,0,3,0,1,1,0,0,0,0,0,0,0,80,0
+Mitchell Moses,7,Halfback,80,12,1,4,4,0,100.0,0,0,73,12,115,0,7,1,1,0,0,2,0,0,3.36,0,0,0,0,2,32,53,2.67,80.0,20,5,0,0,0,18,674,2,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Wiremu Greig,8,Prop,47,4,1,0,0,0,0.0,0,0,56,15,145,0,57,2,0,0,0,3,15,0,3.64,0,0,0,0,0,0,15,0.0,89.66,26,2,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,23,22
+Josh Hodgson,9,Hooker,31,0,0,0,0,0,0.0,0,0,16,2,18,0,3,0,0,0,0,0,1,0,4.28,1,13,0,0,0,51,54,25.5,91.3,21,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,30,0
+Joe Ofahengaue,10,Prop,10,0,0,0,0,0,0.0,0,0,10,2,10,0,1,0,0,0,0,0,2,0,2.94,0,0,0,0,0,0,2,0.0,100.0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0
+Bryce Cartwright,11,2nd Row,80,0,0,0,0,0,0.0,0,0,49,11,99,0,25,1,0,0,0,0,10,0,4.37,0,0,0,1,1,2,12,0.18,89.36,42,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Matt Doorey,12,2nd Row,80,0,0,0,0,0,0.0,0,0,39,9,102,0,38,0,0,0,0,1,9,0,4.15,0,0,0,0,0,1,11,0.11,91.18,31,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+J'maine Hopgood,13,Lock,80,0,0,0,0,0,0.0,0,0,60,21,159,0,32,0,0,0,0,1,17,0,3.31,0,0,0,2,2,8,26,0.38,86.54,45,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0

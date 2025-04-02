@@ -1,0 +1,14 @@
+Player,Number,Position,MinsPlayed,Points,Tries,Conversions,Conversion Attempts,PenaltyGoals,Goal ConversionRate,1 Point FieldGoals,2 Point FieldGoals,TotalPoints,AllRuns,All RunMetres,Kick ReturnMetres,Post ContactMetres,LineBreaks,Line BreakAssists,TryAssists,Line EngagedRuns,TackleBreaks,HitUps,Play TheBall,Average Play The BallSpeed,Dummy HalfRuns,Dummy Half RunMetres,One on OneSteal,Offloads,DummyPasses,Passes,Receipts,Passes To RunRatio,Tackle Efficiency,TacklesMade,MissedTackles,Ineffective Tackles,Intercepts,KicksDefused,Kicks,KickingMetres,Forced DropOuts,BombKicks,Grubbers,40/20,20/40,Cross FieldKicks,KickedDead,Errors,Handling Errors,One on OneLost,Penalties,Ruck Infringements,Inside 10Metres,OnReport,SinBins,SendOffs,StintOne,StintTwo
+Hamiso Tabuai-Fidow,1,Fullback,80,8,2,0,0,0,0.0,0,0,53,14,157,99,50,1,0,0,0,1,0,0,3.94,0,0,0,0,0,9,30,0.64,100.0,10,0,0,0,8,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,80,0
+Jamayne Isaako,2,Winger,80,8,0,3,3,1,100.0,0,0,27,16,136,0,37,0,0,0,0,2,0,0,3.89,0,0,0,0,1,4,21,0.25,100.0,4,0,0,0,2,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,80,0
+Euan Aitken,3,Centre,80,0,0,0,0,0,0.0,0,0,25,12,124,0,35,0,0,0,0,1,2,0,3.22,0,0,0,0,0,5,12,0.42,73.33,11,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Brenko Lee,4,Centre,80,0,0,0,0,0,0.0,0,0,28,12,113,0,36,0,0,0,0,1,1,0,3.71,0,0,0,0,0,2,14,0.17,93.75,15,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Tesi Niu,5,Winger,80,0,0,0,0,0,0.0,0,0,30,12,127,18,24,0,0,0,0,4,6,0,3.74,0,0,0,2,0,1,14,0.08,85.71,6,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,80,0
+Isaiya Katoa,6,Five-Eighth,80,0,0,0,0,0,0.0,0,0,31,6,44,0,11,0,1,1,0,0,0,0,5.04,0,0,0,0,2,25,34,4.17,87.5,21,3,0,0,0,5,109,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,80,0
+Sean O'Sullivan,7,Halfback,73,0,0,0,0,0,0.0,0,0,41,10,80,0,12,0,0,2,0,0,0,0,4.31,0,0,0,0,6,33,57,3.3,83.87,26,3,2,0,0,16,423,1,2,5,0,0,0,1,1,1,0,2,1,1,1,1,0,73,0
+Jesse Bromwich,8,Prop,46,0,0,0,0,0,0.0,0,0,39,11,116,21,42,0,0,0,0,0,10,0,4.27,0,0,1,0,0,0,11,0.0,87.18,34,4,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,19,16
+Jeremy Marshall-King,9,Hooker,71,0,0,0,0,0,0.0,0,0,33,6,53,0,8,0,0,0,0,0,0,0,3.67,6,53,0,0,2,88,94,14.67,97.62,41,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0,0,1,1,0,71,0
+Jarrod Wallace,10,Prop,36,0,0,0,0,0,0.0,0,0,37,8,90,21,28,0,0,0,0,0,6,0,4.12,0,0,0,2,0,1,9,0.13,86.67,26,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,18
+Felise Kaufusi,11,2nd Row,80,0,0,0,0,0,0.0,0,0,38,10,96,0,37,0,0,0,0,1,10,0,3.64,0,0,0,0,0,2,13,0.2,96.77,30,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,80,0
+Kenneath Bromwich,12,2nd Row,52,0,0,0,0,0,0.0,0,0,32,8,94,13,30,0,0,0,0,0,7,0,3.29,0,0,0,0,0,1,9,0.13,88.89,32,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,52,0
+Tom Gilbert,13,Lock,60,4,1,0,0,0,0.0,0,0,59,16,147,0,54,0,0,0,0,1,16,0,4.15,0,0,0,1,0,1,18,0.06,92.5,37,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,34

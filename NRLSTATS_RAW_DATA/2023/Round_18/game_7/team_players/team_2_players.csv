@@ -1,0 +1,14 @@
+Player,Number,Position,MinsPlayed,Points,Tries,Conversions,Conversion Attempts,PenaltyGoals,Goal ConversionRate,1 Point FieldGoals,2 Point FieldGoals,TotalPoints,AllRuns,All RunMetres,Kick ReturnMetres,Post ContactMetres,LineBreaks,Line BreakAssists,TryAssists,Line EngagedRuns,TackleBreaks,HitUps,Play TheBall,Average Play The BallSpeed,Dummy HalfRuns,Dummy Half RunMetres,One on OneSteal,Offloads,DummyPasses,Passes,Receipts,Passes To RunRatio,Tackle Efficiency,TacklesMade,MissedTackles,Ineffective Tackles,Intercepts,KicksDefused,Kicks,KickingMetres,Forced DropOuts,BombKicks,Grubbers,40/20,20/40,Cross FieldKicks,KickedDead,Errors,Handling Errors,One on OneLost,Penalties,Ruck Infringements,Inside 10Metres,OnReport,SinBins,SendOffs,StintOne,StintTwo
+Kalyn Ponga,1,Fullback,80,22,0,11,11,0,100.0,0,0,92,16,159,43,19,2,3,3,0,9,0,0,4.89,0,0,0,1,5,20,33,1.25,66.67,2,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,80,0
+Dominic Young,2,Winger,80,0,0,0,0,0,0.0,0,0,22,14,99,0,30,0,0,0,0,6,0,0,3.59,0,0,0,1,0,1,18,0.07,100.0,1,0,0,0,1,1,33,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,80,0
+Enari Tuala,3,Centre,80,4,1,0,0,0,0.0,0,0,36,9,78,1,27,1,0,0,0,1,1,0,3.53,0,0,0,0,0,2,12,0.22,100.0,12,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,80,0
+Bradman Best,4,Centre,80,12,3,0,0,0,0.0,0,0,94,13,219,0,26,2,1,2,0,7,0,0,3.47,0,0,0,3,0,4,15,0.31,69.23,9,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,80,0
+Greg Marzhew,5,Winger,80,4,1,0,0,0,0.0,0,0,66,20,214,9,78,1,0,0,0,15,1,0,4.01,0,0,0,0,0,2,22,0.1,60.0,3,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Tyson Gamble,6,Five-Eighth,80,0,0,0,0,0,0.0,0,0,32,6,42,10,11,0,1,1,0,0,0,0,3.85,0,0,0,0,1,34,50,5.67,86.96,20,3,0,0,0,11,417,0,3,0,0,0,0,0,2,2,0,1,0,0,0,0,0,80,0
+Jackson Hastings,7,Halfback,66,8,2,0,0,0,0.0,0,0,38,8,70,0,0,1,0,0,0,0,0,0,0.0,1,2,0,0,3,44,49,5.5,84.62,11,1,1,0,0,3,85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,66,0
+Daniel Saifiti,8,Interchange,30,0,0,0,0,0,0.0,0,0,26,12,116,13,48,0,0,0,0,1,10,0,4.04,0,0,0,0,0,1,12,0.08,88.24,15,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0
+Phoenix Crossland,9,Hooker,74,8,2,0,0,0,0.0,0,0,70,4,74,0,3,2,1,1,0,3,1,0,4.04,1,20,0,0,2,110,115,27.5,90.32,28,1,2,0,0,2,48,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,60,13
+Leo Thompson,10,Prop,42,0,0,0,0,0,0.0,0,0,33,11,87,0,28,0,0,0,0,2,11,0,3.76,0,0,0,0,0,1,12,0.09,95.24,20,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,23,19
+Tyson Frizell,11,2nd Row,80,0,0,0,0,0,0.0,0,0,43,12,105,0,48,0,0,0,0,2,12,0,3.61,0,0,0,1,0,1,14,0.08,87.1,27,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Lachlan Fitzgibbon,12,2nd Row,80,4,1,0,0,0,0.0,0,0,92,19,159,0,69,1,3,1,0,7,19,0,3.65,0,0,0,2,0,1,20,0.05,100.0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,80,0
+Adam Elliott,13,Lock,31,0,0,0,0,0,0.0,0,0,38,10,83,0,33,0,0,0,0,6,9,0,3.91,0,0,0,1,2,5,14,0.5,94.12,16,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,31,0

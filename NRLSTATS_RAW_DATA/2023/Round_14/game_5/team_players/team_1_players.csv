@@ -1,0 +1,14 @@
+Player,Number,Position,MinsPlayed,Points,Tries,Conversions,Conversion Attempts,PenaltyGoals,Goal ConversionRate,1 Point FieldGoals,2 Point FieldGoals,TotalPoints,AllRuns,All RunMetres,Kick ReturnMetres,Post ContactMetres,LineBreaks,Line BreakAssists,TryAssists,Line EngagedRuns,TackleBreaks,HitUps,Play TheBall,Average Play The BallSpeed,Dummy HalfRuns,Dummy Half RunMetres,One on OneSteal,Offloads,DummyPasses,Passes,Receipts,Passes To RunRatio,Tackle Efficiency,TacklesMade,MissedTackles,Ineffective Tackles,Intercepts,KicksDefused,Kicks,KickingMetres,Forced DropOuts,BombKicks,Grubbers,40/20,20/40,Cross FieldKicks,KickedDead,Errors,Handling Errors,One on OneLost,Penalties,Ruck Infringements,Inside 10Metres,OnReport,SinBins,SendOffs,StintOne,StintTwo
+James Tedesco,1,Fullback,80,8,2,0,0,0,0.0,0,0,70,21,200,44,48,1,0,1,0,11,0,0,4.1,2,38,0,0,4,7,27,0.33,100.0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Corey Allan,2,Winger,80,0,0,0,0,0,0.0,0,0,30,5,49,3,8,1,1,2,0,1,0,0,4.41,1,17,0,0,0,4,8,0.8,92.31,12,1,0,0,0,1,18,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,80,0
+Joseph-Aukuso Suaalii,3,Centre,80,12,1,4,4,0,80.0,0,0,37,13,105,0,26,1,1,0,0,2,0,0,3.85,0,0,0,1,0,1,16,0.08,50.0,1,1,0,0,2,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,80,0
+Billy Smith,4,Centre,80,0,0,0,0,0,0.0,0,0,26,13,109,18,46,0,0,0,0,2,0,0,3.52,0,0,0,2,1,3,14,0.23,87.5,14,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,80,0
+Fetalaiga Pauga,5,Winger,80,4,1,0,0,0,0.0,0,0,38,18,194,29,33,0,0,0,0,4,0,0,3.37,1,0,0,0,0,1,21,0.06,80.0,4,0,1,0,3,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,80,0
+Joseph Manu,6,Five-Eighth,80,0,0,0,0,0,0.0,0,0,28,14,118,0,20,0,0,0,0,6,0,0,3.56,1,0,0,0,2,12,25,0.86,78.95,15,3,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,80,0
+Luke Keary,7,Halfback,80,1,0,0,0,0,0.0,1,0,54,7,69,0,6,1,0,1,0,1,0,0,3.92,0,0,0,0,3,33,51,4.71,94.74,18,0,1,0,0,14,428,1,5,0,0,0,2,1,1,0,0,0,0,0,0,0,0,80,0
+Jared Waerea-Hargreaves,8,Prop,52,0,0,0,0,0,0.0,0,0,42,17,147,0,50,0,0,0,0,1,15,0,3.59,0,0,0,1,0,3,18,0.18,92.86,26,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,28,24
+Jake Turpin,9,Hooker,62,0,0,0,0,0,0.0,0,0,54,2,10,0,2,0,0,0,0,1,1,0,4.12,1,10,0,0,0,69,73,34.5,96.15,50,1,1,0,0,2,47,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,61,0
+Lindsay Collins,10,Prop,57,0,0,0,0,0,0.0,0,0,40,9,87,44,27,0,0,0,0,0,5,0,3.58,0,0,0,0,0,0,9,0.0,96.97,32,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,29
+Egan Butcher,11,2nd Row,80,0,0,0,0,0,0.0,0,0,44,8,60,0,21,0,0,0,0,0,8,0,2.94,0,0,0,0,0,3,11,0.38,91.67,44,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Nat Butcher,12,2nd Row,80,0,0,0,0,0,0.0,0,0,38,8,65,14,25,0,0,0,0,1,7,0,3.38,0,0,0,0,0,2,10,0.25,92.11,35,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,80,0
+Sitili Tupouniua,13,Lock,51,0,0,0,0,0,0.0,0,0,35,10,85,0,21,0,0,0,0,2,7,0,4.01,0,0,0,0,0,4,11,0.4,93.1,27,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,30,19

@@ -1,0 +1,14 @@
+Player,Number,Position,MinsPlayed,Points,Tries,Conversions,Conversion Attempts,PenaltyGoals,Goal ConversionRate,1 Point FieldGoals,2 Point FieldGoals,TotalPoints,AllRuns,All RunMetres,Kick ReturnMetres,Post ContactMetres,LineBreaks,Line BreakAssists,TryAssists,Line EngagedRuns,TackleBreaks,HitUps,Play TheBall,Average Play The BallSpeed,Dummy HalfRuns,Dummy Half RunMetres,One on OneSteal,Offloads,DummyPasses,Passes,Receipts,Passes To RunRatio,Tackle Efficiency,TacklesMade,MissedTackles,Ineffective Tackles,Intercepts,KicksDefused,Kicks,KickingMetres,Forced DropOuts,BombKicks,Grubbers,40/20,20/40,Cross FieldKicks,KickedDead,Errors,Handling Errors,One on OneLost,Penalties,Ruck Infringements,Inside 10Metres,OnReport,SinBins,SendOffs,StintOne,StintTwo
+Jayden Campbell,1,Fullback,80,0,0,0,0,0,0.0,0,0,39,16,142,87,24,0,1,0,0,3,0,0,3.69,0,0,0,0,1,14,28,0.88,100.0,4,0,0,0,6,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,80,0
+Alofiana Khan-Pereira,2,Winger,80,8,2,0,0,0,0.0,0,0,43,12,213,4,15,1,0,0,0,2,0,0,3.87,0,0,0,0,1,0,15,0.0,0.0,0,0,0,1,0,2,26,0,0,1,0,0,0,0,2,2,0,1,0,0,0,0,0,80,0
+Brian Kelly,3,Centre,80,4,1,0,0,0,0.0,0,0,55,21,188,0,49,1,1,0,0,6,0,0,3.91,1,10,0,0,1,13,31,0.62,88.24,15,1,1,0,0,1,7,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,80,0
+Jojo Fifita,4,Centre,80,0,0,0,0,0,0.0,0,0,54,15,136,0,33,0,0,0,0,3,0,0,4.15,0,0,0,0,2,6,16,0.4,90.0,27,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Phillip Sami,5,Winger,80,0,0,0,0,0,0.0,0,0,46,20,209,2,43,1,0,0,0,10,1,0,3.5,0,0,0,1,0,2,23,0.1,33.33,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,80,0
+Kieran Foran,6,Five-Eighth,80,8,2,0,0,0,0.0,0,0,38,5,56,0,3,2,0,0,0,3,0,0,5.08,0,0,0,0,1,29,34,5.8,66.67,14,5,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,80,0
+Tanah Boyd,7,Halfback,80,6,0,3,5,0,60.0,0,0,66,3,17,0,0,0,1,1,0,0,0,0,0.0,0,0,0,0,0,40,60,13.33,88.46,23,1,2,0,0,21,829,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Moeaki Fotuaika,8,Prop,56,0,0,0,0,0,0.0,0,0,52,14,144,56,43,0,0,0,0,2,10,0,3.35,0,0,0,1,0,1,15,0.07,96.77,30,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,25
+Chris Randall,9,Hooker,67,0,0,0,0,0,0.0,0,0,45,3,31,0,4,0,0,0,0,0,0,0,4.32,3,31,0,0,1,74,76,24.67,91.11,41,2,2,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,66,0
+Tino Fa'asuamaleaui,10,Prop,73,0,0,0,0,0,0.0,0,0,71,18,157,0,44,0,0,0,0,4,18,0,4.05,0,0,0,2,0,2,20,0.11,88.0,44,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70,3
+David Fifita,11,2nd Row,80,0,0,0,0,0,0.0,0,0,71,15,147,0,43,0,1,1,0,6,13,0,3.85,1,15,0,4,0,4,18,0.27,83.87,26,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Joe Stimson,12,2nd Row,59,0,0,0,0,0,0.0,0,0,31,4,37,11,7,0,0,0,0,0,3,0,4.26,0,0,0,0,0,1,6,0.25,94.12,32,0,2,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,58,0
+Isaac Liu,13,Lock,51,0,0,0,0,0,0.0,0,0,34,8,62,0,12,0,0,0,0,1,7,0,3.24,0,0,0,0,1,11,17,1.38,86.67,26,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,21

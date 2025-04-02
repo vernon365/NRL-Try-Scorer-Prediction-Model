@@ -1,0 +1,14 @@
+Player,Number,Position,MinsPlayed,Points,Tries,Conversions,Conversion Attempts,PenaltyGoals,Goal ConversionRate,1 Point FieldGoals,2 Point FieldGoals,TotalPoints,AllRuns,All RunMetres,Kick ReturnMetres,Post ContactMetres,LineBreaks,Line BreakAssists,TryAssists,Line EngagedRuns,TackleBreaks,HitUps,Play TheBall,Average Play The BallSpeed,Dummy HalfRuns,Dummy Half RunMetres,One on OneSteal,Offloads,DummyPasses,Passes,Receipts,Passes To RunRatio,Tackle Efficiency,TacklesMade,MissedTackles,Ineffective Tackles,Intercepts,KicksDefused,Kicks,KickingMetres,Forced DropOuts,BombKicks,Grubbers,40/20,20/40,Cross FieldKicks,KickedDead,Errors,Handling Errors,One on OneLost,Penalties,Ruck Infringements,Inside 10Metres,OnReport,SinBins,SendOffs,StintOne,StintTwo
+Dylan Edwards,1,Fullback,89,0,0,0,0,0,0.0,0,0,39,32,333,131,80,0,0,0,0,4,0,0,3.13,1,9,0,0,4,27,55,0.84,72.73,8,3,0,0,2,1,4,0,0,1,0,0,0,0,2,1,0,1,0,0,0,0,0,89,0
+Sunia Turuva,2,Winger,77,0,0,0,0,0,0.0,0,0,61,22,215,3,59,1,0,0,0,16,1,0,3.76,0,0,0,0,1,6,27,0.27,80.0,4,1,0,0,2,2,15,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,16,60
+Izack Tago,3,Centre,89,8,2,0,0,0,0.0,0,0,55,16,136,0,42,1,1,1,0,3,2,0,3.54,0,0,0,0,0,4,16,0.25,86.36,19,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,0,0,0,0,89,0
+Tyrone Peachey,4,Centre,89,0,0,0,0,0,0.0,0,0,59,22,167,4,46,0,0,0,0,7,0,0,3.56,0,0,0,3,1,5,23,0.23,100.0,18,0,0,0,1,1,8,1,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,89,0
+Thomas Jenkins,5,Winger,89,4,1,0,0,0,0.0,0,0,34,12,100,0,25,1,0,0,0,2,1,0,3.12,0,0,0,0,0,4,18,0.33,80.0,8,0,2,0,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,89,0
+Jaeman Salmon,6,Five-Eighth,89,4,1,0,0,0,0.0,0,0,61,13,119,0,17,1,1,1,0,3,0,0,3.33,0,0,0,1,4,37,48,2.85,84.62,22,3,1,0,0,4,150,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,89,0
+Jack Cogger,7,Halfback,89,7,0,2,4,1,60.0,1,0,74,12,93,0,8,0,0,1,0,1,0,0,3.16,0,0,0,3,0,32,55,2.67,86.36,19,3,0,0,0,15,566,0,2,0,0,0,1,1,0,0,0,0,0,0,0,0,0,89,0
+Mitch Kenny,9,Hooker,75,0,0,0,0,0,0.0,0,0,33,5,34,0,9,0,1,0,0,0,2,0,3.88,2,8,0,0,0,94,95,18.8,86.36,38,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,66,8
+James Fisher-Harris,10,Prop,58,0,0,0,0,0,0.0,0,0,53,17,116,21,34,0,0,0,0,5,14,0,3.3,0,0,0,1,0,4,20,0.24,94.44,34,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,32,16
+Scott Sorensen,11,2nd Row,89,0,0,0,0,0,0.0,0,0,47,12,96,0,34,1,0,0,0,5,12,0,3.61,0,0,0,0,1,0,14,0.0,92.68,38,3,0,0,0,1,1,0,0,1,0,0,0,0,2,2,0,2,0,0,0,0,0,89,0
+Zac Hosking,12,2nd Row,70,0,0,0,0,0,0.0,0,0,51,11,100,0,31,0,0,0,0,2,11,0,3.32,0,0,0,1,0,2,13,0.18,94.29,33,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70,0
+Matthew Eisenhuth,13,Lock,64,0,0,0,0,0,0.0,0,0,56,17,125,3,30,0,0,0,0,1,12,0,3.23,0,0,0,2,3,9,22,0.53,95.0,38,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47,15
+Soni Luke,14,Interchange,33,0,0,0,0,0,0.0,0,0,21,7,37,0,2,0,0,0,0,0,2,0,3.17,5,34,0,0,2,42,46,6.0,83.87,26,4,1,0,0,1,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0

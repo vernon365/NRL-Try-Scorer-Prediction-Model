@@ -1,0 +1,14 @@
+Player,Number,Position,MinsPlayed,Points,Tries,Conversions,Conversion Attempts,PenaltyGoals,Goal ConversionRate,1 Point FieldGoals,2 Point FieldGoals,TotalPoints,AllRuns,All RunMetres,Kick ReturnMetres,Post ContactMetres,LineBreaks,Line BreakAssists,TryAssists,Line EngagedRuns,TackleBreaks,HitUps,Play TheBall,Average Play The BallSpeed,Dummy HalfRuns,Dummy Half RunMetres,One on OneSteal,Offloads,DummyPasses,Passes,Receipts,Passes To RunRatio,Tackle Efficiency,TacklesMade,MissedTackles,Ineffective Tackles,Intercepts,KicksDefused,Kicks,KickingMetres,Forced DropOuts,BombKicks,Grubbers,40/20,20/40,Cross FieldKicks,KickedDead,Errors,Handling Errors,One on OneLost,Penalties,Ruck Infringements,Inside 10Metres,OnReport,SinBins,SendOffs,StintOne,StintTwo
+Nick Meaney,1,Fullback,80,8,0,4,4,0,100.0,0,0,52,17,149,79,46,0,1,1,0,5,0,0,3.3,3,27,0,1,2,16,34,0.94,85.71,6,1,0,0,1,1,25,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Will Warbrick,2,Winger,80,4,1,0,0,0,0.0,0,0,29,11,109,10,30,1,0,0,0,2,0,0,3.27,0,0,0,0,0,1,14,0.09,100.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,80,0
+Reimis Smith,3,Centre,80,4,1,0,0,0,0.0,0,0,31,11,94,0,23,1,0,0,0,1,0,0,3.22,1,1,0,0,0,2,13,0.18,76.47,13,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,80,0
+Justin Olam,4,Centre,80,0,0,0,0,0,0.0,0,0,22,12,101,0,48,0,0,0,0,3,0,0,3.3,0,0,0,1,0,0,12,0.0,81.25,13,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,80,0
+Xavier Coates,5,Winger,80,0,0,0,0,0,0.0,0,0,9,10,83,38,22,0,0,0,0,0,0,0,3.27,0,0,0,0,0,0,12,0.0,66.67,6,3,0,0,1,0,0,0,0,0,0,0,0,0,3,3,1,0,0,0,0,0,0,80,0
+Cameron Munster,6,Five-Eighth,80,4,1,0,0,0,0.0,0,0,29,12,71,0,10,0,0,0,0,1,0,0,4.6,0,0,0,0,5,28,53,2.33,76.19,16,5,0,0,2,12,260,1,3,1,0,0,1,0,1,0,0,2,0,0,0,0,0,80,0
+Jahrome Hughes,7,Halfback,80,0,0,0,0,0,0.0,0,0,38,9,45,0,9,0,1,2,0,2,0,0,3.88,0,0,0,0,2,43,54,4.78,82.35,14,3,0,0,0,8,181,0,1,2,0,0,3,0,0,0,0,0,0,0,0,0,0,80,0
+Nelson Asofa-Solomona,8,Interchange,40,0,0,0,0,0,0.0,0,0,38,18,145,0,65,0,0,0,0,10,18,0,2.51,0,0,0,0,0,1,19,0.06,76.92,10,2,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,16,23
+Harry Grant,9,Hooker,80,0,0,0,0,0,0.0,0,0,43,5,38,0,11,0,0,0,0,1,1,0,2.36,2,21,0,0,1,128,127,25.6,89.36,42,4,1,0,0,3,53,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,80,0
+Christian Welch,10,Prop,59,0,0,0,0,0,0.0,0,0,41,13,100,11,24,0,0,0,0,0,8,0,3.4,0,0,0,1,3,10,18,0.77,89.47,34,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,25,33
+Trent Loiero,11,2nd Row,80,0,0,0,0,0,0.0,0,0,43,12,98,0,44,0,0,0,0,2,12,0,3.19,0,0,0,0,0,2,14,0.17,88.89,32,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,80,0
+Eliesa Katoa,12,2nd Row,53,4,1,0,0,0,0.0,0,0,63,11,83,0,27,1,1,1,0,6,11,0,2.68,0,0,0,1,1,1,12,0.09,100.0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,52,0
+Josh King,13,Lock,70,0,0,0,0,0,0.0,0,0,40,15,109,0,44,0,0,0,0,0,15,0,4.11,0,0,0,0,1,5,20,0.33,86.36,38,5,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,66,3

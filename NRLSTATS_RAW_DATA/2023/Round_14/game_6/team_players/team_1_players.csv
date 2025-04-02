@@ -1,0 +1,14 @@
+Player,Number,Position,MinsPlayed,Points,Tries,Conversions,Conversion Attempts,PenaltyGoals,1 Point FieldGoals,2 Point FieldGoals,TotalPoints,AllRuns,All RunMetres,Kick ReturnMetres,Post ContactMetres,LineBreaks,Line BreakAssists,TryAssists,Line EngagedRuns,TackleBreaks,HitUps,Play TheBall,Average Play The BallSpeed,Dummy HalfRuns,Dummy Half RunMetres,One on OneSteal,Offloads,DummyPasses,Passes,Receipts,Passes To RunRatio,Tackle Efficiency,TacklesMade,MissedTackles,Ineffective Tackles,Intercepts,KicksDefused,Kicks,KickingMetres,Forced DropOuts,BombKicks,Grubbers,40/20,20/40,Cross FieldKicks,KickedDead,Errors,Handling Errors,One on OneLost,Penalties,Ruck Infringements,Inside 10Metres,OnReport,SinBins,SendOffs,StintOne,StintTwo
+Scott Drinkwater,1,Fullback,80,0,0,0,0,0,0,0,49,22,160,34,38,0,4,2,0,6,2,0,3.47,1,10,0,1,3,20,40,0.91,50.0,2,1,1,0,1,1,16,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,80,0
+Kyle Feldt,2,Replacement,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Peta Hiku,4,Centre,80,0,0,0,0,0,0,0,47,14,121,0,33,0,2,3,0,4,0,0,3.97,0,0,0,0,1,5,16,0.36,80.0,16,4,0,0,0,1,17,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Semi Valemei,5,Winger,80,12,3,0,0,0,0,0,66,16,159,11,43,3,0,0,0,6,0,0,4.03,0,0,0,0,0,0,15,0.0,66.67,6,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Tom Dearden,6,Five-Eighth,80,0,0,0,0,0,0,0,20,13,95,0,17,0,0,0,0,6,1,0,3.4,0,0,0,0,5,36,46,2.77,57.14,12,7,2,0,0,4,82,0,1,0,0,0,2,0,0,0,0,0,1,0,0,0,0,80,0
+Chad Townsend,7,Halfback,80,5,1,0,0,0,1,0,33,9,45,0,6,0,0,0,0,1,0,0,3.83,1,0,0,0,5,31,49,3.44,64.71,11,5,1,0,0,12,390,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Jordan McLean,8,Prop,42,0,0,0,0,0,0,0,18,13,87,0,29,0,0,0,0,0,12,0,2.88,0,0,0,0,0,3,15,0.23,90.91,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,16
+Reece Robson,9,Hooker,80,0,0,0,0,0,0,0,55,10,70,0,28,0,0,0,0,5,3,0,4.94,6,53,0,1,4,96,104,9.6,91.89,34,2,1,0,0,1,12,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,80,0
+Coen Hess,10,Prop,42,0,0,0,0,0,0,0,25,8,88,41,25,0,0,0,0,3,5,0,3.1,0,0,0,0,0,1,9,0.13,88.24,15,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,25,16
+Luciano Leilua,11,2nd Row,80,0,0,0,0,0,0,0,25,10,73,0,24,0,0,0,0,2,9,0,3.07,0,0,0,0,0,6,14,0.6,95.24,20,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,80,0
+Heilum Luki,12,2nd Row,34,0,0,0,0,0,0,0,39,8,75,0,24,0,1,1,0,4,8,0,3.3,0,0,0,1,0,1,9,0.13,86.67,13,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,6
+Jake Granville,13,Lock,48,0,0,0,0,0,0,0,25,6,39,0,3,0,0,0,0,0,4,0,4.04,0,0,0,0,0,8,13,1.33,89.66,26,1,2,0,0,1,8,1,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,38,9
+Jeremiah Nanai,15,Interchange,53,4,1,0,0,0,0,0,38,12,118,0,31,1,0,0,0,1,9,0,3.7,1,8,0,0,0,1,12,0.08,83.33,15,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53,0

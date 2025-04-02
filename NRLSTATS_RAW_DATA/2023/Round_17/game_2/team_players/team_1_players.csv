@@ -1,0 +1,14 @@
+Player,Number,Position,MinsPlayed,Points,Tries,Conversions,Conversion Attempts,PenaltyGoals,Goal ConversionRate,1 Point FieldGoals,2 Point FieldGoals,TotalPoints,AllRuns,All RunMetres,Kick ReturnMetres,Post ContactMetres,LineBreaks,Line BreakAssists,TryAssists,Line EngagedRuns,TackleBreaks,HitUps,Play TheBall,Average Play The BallSpeed,Dummy HalfRuns,Dummy Half RunMetres,One on OneSteal,Offloads,DummyPasses,Passes,Receipts,Passes To RunRatio,Tackle Efficiency,TacklesMade,MissedTackles,Ineffective Tackles,Intercepts,KicksDefused,Kicks,KickingMetres,Forced DropOuts,BombKicks,Grubbers,40/20,20/40,Cross FieldKicks,KickedDead,Errors,Handling Errors,One on OneLost,Penalties,Ruck Infringements,Inside 10Metres,OnReport,SinBins,SendOffs,StintOne,StintTwo
+Hamiso Tabuai-Fidow,1,Fullback,80,8,2,0,0,0,0.0,0,0,65,9,279,136,17,1,0,0,0,8,0,0,3.4,2,31,0,0,0,15,29,1.67,75.0,6,2,0,0,5,1,39,0,1,0,0,0,0,0,2,2,0,1,0,0,0,0,0,80,0
+Jamayne Isaako,2,Winger,80,4,0,2,4,0,50.0,0,0,51,15,178,26,45,1,0,1,0,4,0,0,3.29,0,0,0,1,0,5,21,0.33,75.0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,80,0
+Euan Aitken,3,Centre,80,0,0,0,0,0,0.0,0,0,26,13,102,0,30,0,1,1,0,1,0,0,3.56,0,0,0,0,0,5,16,0.38,68.42,13,3,3,0,0,1,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Valynce Te Whare,4,Centre,80,4,1,0,0,0,0.0,0,0,43,13,142,6,39,1,0,0,0,1,0,0,3.61,0,0,0,0,0,5,15,0.38,81.25,13,0,3,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,80,0
+Brayden McGrady,5,Winger,80,4,1,0,0,0,0.0,0,0,34,12,112,22,24,1,0,0,0,6,0,0,3.32,0,0,0,0,0,2,12,0.17,60.0,3,2,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,80,0
+Kodi Nikorima,6,Five-Eighth,80,0,0,0,0,0,0.0,0,0,24,3,33,0,6,0,1,1,0,0,0,0,2.96,0,0,0,1,0,31,39,10.33,81.25,13,3,0,0,0,5,150,0,2,0,0,0,0,0,1,1,0,0,0,0,0,0,0,80,0
+Isaiya Katoa,7,Halfback,35,0,0,0,0,0,0.0,0,0,11,1,4,0,1,0,0,0,0,0,0,0,5.84,0,0,0,0,0,32,34,32.0,78.95,15,3,1,0,0,1,18,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,22,12
+Jesse Bromwich,8,Prop,55,0,0,0,0,0,0.0,0,0,50,6,77,14,26,0,0,0,0,1,5,0,3.19,0,0,0,1,0,6,12,1.0,97.5,39,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,29
+Herman Ese'ese,10,Prop,29,0,0,0,0,0,0.0,0,0,32,8,83,0,28,0,0,0,0,1,8,0,3.3,0,0,0,1,0,0,8,0.0,95.65,22,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,18,10
+Felise Kaufusi,11,2nd Row,80,0,0,0,0,0,0.0,0,0,30,11,102,0,45,0,1,0,0,0,11,0,3.0,0,0,0,0,0,4,15,0.36,81.48,22,3,2,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,80,0
+Kenneath Bromwich,12,2nd Row,52,0,0,0,0,0,0.0,0,0,40,7,51,0,15,0,0,0,0,0,7,0,4.0,0,0,0,0,0,3,10,0.43,92.5,37,0,3,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,31,21
+Ray Stone,13,Lock,50,0,0,0,0,0,0.0,0,0,33,2,16,0,5,0,0,0,0,0,2,0,3.36,0,0,0,0,0,1,3,0.5,91.89,34,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0
+Josh Kerr,14,Interchange,39,0,0,0,0,0,0.0,0,0,32,7,74,40,16,0,0,0,0,0,4,0,3.17,0,0,0,0,0,0,7,0.0,87.88,29,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0

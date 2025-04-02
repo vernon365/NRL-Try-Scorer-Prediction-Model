@@ -1,0 +1,14 @@
+Player,Number,Position,MinsPlayed,Points,Tries,Conversions,Conversion Attempts,PenaltyGoals,Goal ConversionRate,1 Point FieldGoals,2 Point FieldGoals,TotalPoints,AllRuns,All RunMetres,Kick ReturnMetres,Post ContactMetres,LineBreaks,Line BreakAssists,TryAssists,Line EngagedRuns,TackleBreaks,HitUps,Play TheBall,Average Play The BallSpeed,Dummy HalfRuns,Dummy Half RunMetres,One on OneSteal,Offloads,DummyPasses,Passes,Receipts,Passes To RunRatio,Tackle Efficiency,TacklesMade,MissedTackles,Ineffective Tackles,Intercepts,KicksDefused,Kicks,KickingMetres,Forced DropOuts,BombKicks,Grubbers,40/20,20/40,Cross FieldKicks,KickedDead,Errors,Handling Errors,One on OneLost,Penalties,Ruck Infringements,Inside 10Metres,OnReport,SinBins,SendOffs,StintOne,StintTwo
+Kaeo Weekes,1,Fullback,80,0,0,0,0,0,0.0,0,0,21,10,92,38,11,0,0,0,0,3,0,0,3.67,0,0,0,0,0,16,24,1.6,66.67,8,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Jason Saab,2,Winger,80,4,1,0,0,0,0.0,0,0,36,7,134,0,14,0,0,0,0,0,0,0,4.12,0,0,0,0,0,2,10,0.29,71.43,10,4,0,1,2,1,20,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,80,0
+Brad Parker,3,Centre,80,0,0,0,0,0,0.0,0,0,11,7,63,0,26,0,0,1,0,1,0,0,4.43,0,0,0,0,1,6,8,0.86,60.0,6,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,80,0
+Tolutau Koula,4,Centre,70,0,0,0,0,0,0.0,0,0,3,7,55,0,15,0,0,0,0,0,0,0,3.29,0,0,0,0,0,4,11,0.57,63.64,14,6,2,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,1,0,70,0
+Reuben Garrick,5,Winger,80,10,1,2,3,1,75.0,0,0,39,10,89,1,9,0,0,0,0,1,1,0,4.05,0,0,0,3,1,3,15,0.3,75.0,3,1,0,1,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,80,0
+Joshua Schuster,6,Five-Eighth,80,0,0,0,0,0,0.0,0,0,33,8,52,4,0,0,0,1,0,0,0,0,4.62,0,0,0,0,1,31,44,3.88,92.86,13,1,0,0,0,10,304,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Cooper Johns,7,Halfback,54,0,0,0,0,0,0.0,0,0,2,5,21,0,2,0,0,0,0,0,0,0,3.44,0,0,0,0,2,20,23,4.0,70.59,12,5,0,0,0,1,14,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,53,0
+Taniela Paseka,8,Prop,56,0,0,0,0,0,0.0,0,0,46,13,120,0,58,0,0,0,0,1,13,0,3.7,0,0,0,1,0,0,14,0.0,88.89,40,5,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,25,30
+Lachlan Croker,9,Hooker,80,4,1,0,0,0,0.0,0,0,36,4,30,0,6,0,0,0,0,0,1,0,2.6,1,12,0,0,4,99,103,24.75,86.67,39,4,2,0,0,1,59,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,80,0
+Toafofoa Sipley,10,Prop,44,0,0,0,0,0,0.0,0,0,49,14,165,65,44,1,0,0,0,4,10,0,2.88,0,0,0,0,0,3,17,0.21,93.1,27,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,21,22
+Haumole Olakau'atu,11,2nd Row,80,0,0,0,0,0,0.0,0,0,45,10,82,0,38,0,0,0,0,0,10,0,4.57,0,0,0,0,0,3,13,0.3,91.18,31,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,80,0
+Samuela Fainu,12,2nd Row,77,0,0,0,0,0,0.0,0,0,47,12,91,0,29,0,0,0,0,3,12,0,3.7,0,0,0,2,0,2,15,0.17,90.0,27,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,76,0
+Sean Keppie,13,Lock,48,0,0,0,0,0,0.0,0,0,45,15,143,0,47,0,0,0,0,2,15,0,3.44,0,0,0,1,0,0,16,0.0,93.94,31,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,30,18

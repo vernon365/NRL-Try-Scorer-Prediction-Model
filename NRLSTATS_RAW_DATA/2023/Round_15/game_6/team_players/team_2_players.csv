@@ -1,0 +1,14 @@
+Player,Number,Position,MinsPlayed,Points,Tries,Conversions,Conversion Attempts,PenaltyGoals,Goal ConversionRate,1 Point FieldGoals,2 Point FieldGoals,TotalPoints,AllRuns,All RunMetres,Kick ReturnMetres,Post ContactMetres,LineBreaks,Line BreakAssists,TryAssists,Line EngagedRuns,TackleBreaks,HitUps,Play TheBall,Average Play The BallSpeed,Dummy HalfRuns,Dummy Half RunMetres,One on OneSteal,Offloads,DummyPasses,Passes,Receipts,Passes To RunRatio,Tackle Efficiency,TacklesMade,MissedTackles,Ineffective Tackles,Intercepts,KicksDefused,Kicks,KickingMetres,Forced DropOuts,BombKicks,Grubbers,40/20,20/40,Cross FieldKicks,KickedDead,Errors,Handling Errors,One on OneLost,Penalties,Ruck Infringements,Inside 10Metres,OnReport,SinBins,SendOffs,StintOne,StintTwo
+Dylan Edwards,1,Fullback,80,4,1,0,0,0,0.0,0,0,43,16,185,50,47,1,0,0,0,3,1,0,3.61,1,0,0,1,0,24,40,1.5,85.71,6,1,0,0,1,1,11,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,80,0
+Sunia Turuva,2,Winger,80,0,0,0,0,0,0.0,0,0,33,13,148,43,40,1,0,1,0,5,1,0,4.02,0,0,0,0,0,2,13,0.15,66.67,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Izack Tago,3,Centre,80,4,1,0,0,0,0.0,0,0,27,13,157,0,49,0,0,0,0,1,0,0,3.02,0,0,0,0,0,4,14,0.31,69.23,9,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,80,0
+Stephen Crichton,4,Centre,80,14,1,4,5,1,83.33,0,0,64,14,151,0,47,1,1,1,0,4,2,0,4.13,0,0,0,2,0,3,17,0.21,73.68,14,4,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,80,0
+Brian To'o,5,Winger,80,4,1,0,0,0,0.0,0,0,41,20,193,45,61,1,0,0,0,5,0,0,3.31,0,0,0,0,0,1,24,0.05,66.67,2,1,0,0,4,0,0,0,0,0,0,0,0,0,4,3,0,0,0,0,0,0,0,80,0
+Jarome Luai,6,Five-Eighth,80,0,0,0,0,0,0.0,0,0,37,10,90,0,12,0,1,1,0,2,0,0,1.89,0,0,0,1,1,31,40,3.1,82.35,14,2,1,0,0,5,133,0,3,1,0,0,0,0,0,0,0,0,0,1,0,0,0,80,0
+Jack Cogger,7,Halfback,80,0,0,0,0,0,0.0,0,0,48,7,61,0,16,0,0,0,0,1,0,0,2.68,0,0,0,1,1,37,53,5.29,90.63,29,1,2,0,0,11,274,0,5,0,0,0,2,0,1,0,0,3,0,0,0,0,0,80,0
+Moses Leota,8,Prop,26,0,0,0,0,0,0.0,0,0,32,10,100,24,28,0,0,0,0,3,8,0,3.22,0,0,0,0,0,0,10,0.0,86.96,20,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,15,21
+Mitch Kenny,9,Hooker,67,0,0,0,0,0,0.0,0,0,45,3,24,0,6,0,2,1,0,0,3,0,3.72,0,0,0,0,0,91,95,30.33,86.36,38,6,0,0,0,1,4,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,66,0
+James Fisher-Harris,10,Prop,37,0,0,0,0,0,0.0,0,0,27,11,104,0,38,0,0,0,0,0,10,0,3.17,0,0,0,0,0,2,12,0.18,86.36,19,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,13
+Scott Sorensen,11,2nd Row,59,0,0,0,0,0,0.0,0,0,67,19,229,6,76,1,2,0,0,3,17,0,3.53,1,10,0,5,0,3,22,0.16,77.78,21,4,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,58,0
+Isaah Yeo,13,Lock,80,4,1,0,0,0,0.0,0,0,72,14,150,0,64,1,0,0,0,4,14,0,3.1,0,0,0,0,0,21,35,1.5,89.19,33,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,80,0
+Liam Martin,14,2nd Row,67,0,0,0,0,0,0.0,0,0,53,11,125,0,29,1,0,1,0,5,11,0,2.98,0,0,0,2,0,4,14,0.36,80.0,28,6,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,67,0

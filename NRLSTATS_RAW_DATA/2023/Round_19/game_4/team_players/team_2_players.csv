@@ -1,0 +1,14 @@
+Player,Number,Position,MinsPlayed,Points,Tries,Conversions,Conversion Attempts,PenaltyGoals,Goal ConversionRate,1 Point FieldGoals,2 Point FieldGoals,TotalPoints,AllRuns,All RunMetres,Kick ReturnMetres,Post ContactMetres,LineBreaks,Line BreakAssists,TryAssists,Line EngagedRuns,TackleBreaks,HitUps,Play TheBall,Average Play The BallSpeed,Dummy HalfRuns,Dummy Half RunMetres,One on OneSteal,Offloads,DummyPasses,Passes,Receipts,Passes To RunRatio,Tackle Efficiency,TacklesMade,MissedTackles,Ineffective Tackles,Intercepts,KicksDefused,Kicks,KickingMetres,Forced DropOuts,BombKicks,Grubbers,40/20,20/40,Cross FieldKicks,KickedDead,Errors,Handling Errors,One on OneLost,Penalties,Ruck Infringements,Inside 10Metres,OnReport,SinBins,SendOffs,StintOne,StintTwo
+Jake Averillo,1,Fullback,80,0,0,0,0,0,0.0,0,0,38,21,206,76,47,0,3,2,0,2,1,0,4.02,0,0,0,1,2,11,30,0.52,42.86,3,4,0,0,1,1,5,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,80,0
+Jacob Kiraz,2,Winger,80,4,1,0,0,0,0.0,0,0,47,15,148,0,50,1,0,0,0,7,1,0,3.87,1,20,0,2,0,2,17,0.13,66.67,2,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,80,0
+Braidon Burns,3,Centre,72,0,0,0,0,0,0.0,0,0,25,13,119,0,36,0,0,0,0,4,0,0,3.74,4,23,0,5,0,8,20,0.62,66.67,6,3,0,0,0,0,0,0,0,0,0,0,0,0,4,3,0,1,0,0,0,0,0,72,0
+Jackson Topine,4,2nd Row,80,0,0,0,0,0,0.0,0,0,49,7,63,0,25,0,0,0,0,0,7,0,3.3,0,0,0,0,0,2,9,0.29,95.74,45,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Blake Wilson,5,Winger,80,12,3,0,0,0,0.0,0,0,69,15,167,35,35,3,0,0,0,6,1,0,4.25,5,46,0,0,0,6,22,0.4,80.0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,80,0
+Matt Burton,6,Five-Eighth,80,12,0,5,6,1,85.71,0,0,71,13,161,0,33,0,2,2,0,2,0,0,4.14,0,0,1,2,1,25,38,1.92,80.0,16,4,0,0,0,5,119,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,80,0
+Toby Sexton,7,Halfback,80,0,0,0,0,0,0.0,0,0,48,15,129,0,18,2,0,0,0,3,1,0,3.36,1,3,0,0,1,33,48,2.2,88.0,22,2,1,0,1,7,208,0,3,0,0,0,0,0,1,1,0,0,0,1,0,0,0,80,0
+Max King,8,Prop,63,0,0,0,0,0,0.0,0,0,49,10,114,0,46,0,0,0,0,1,10,0,3.87,0,0,0,1,1,3,14,0.3,90.91,40,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,47,15
+Reed Mahoney,9,Hooker,80,4,1,0,0,0,0.0,0,0,59,9,62,0,8,1,0,0,0,1,1,0,3.94,4,25,0,1,6,84,91,9.33,88.46,46,4,2,0,0,2,52,0,0,1,0,0,0,0,2,2,0,0,0,0,0,0,0,80,0
+Ryan Sutton,10,Prop,9,0,0,0,0,0,0.0,0,0,8,2,25,25,4,0,0,0,0,0,0,0,2.92,0,0,0,0,0,0,2,0.0,88.89,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0
+Jayden Okunbor,11,Interchange,40,0,0,0,0,0,0.0,0,0,33,8,92,0,41,0,1,1,0,0,8,0,4.02,0,0,0,0,0,5,12,0.63,95.0,19,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0
+Jacob Preston,12,2nd Row,80,0,0,0,0,0,0.0,0,0,44,9,84,0,40,0,0,0,0,1,9,0,3.9,0,0,0,0,0,1,11,0.11,95.12,39,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,80,0
+Raymond Faitala-Mariner,13,Lock,50,0,0,0,0,0,0.0,0,0,39,13,120,12,42,0,0,0,0,3,11,0,3.8,0,0,0,1,0,1,13,0.08,83.33,25,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,16

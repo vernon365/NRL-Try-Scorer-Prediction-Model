@@ -1,0 +1,14 @@
+Player,Number,Position,MinsPlayed,Points,Tries,Conversions,Conversion Attempts,PenaltyGoals,Goal ConversionRate,1 Point FieldGoals,2 Point FieldGoals,TotalPoints,AllRuns,All RunMetres,Kick ReturnMetres,Post ContactMetres,LineBreaks,Line BreakAssists,TryAssists,Line EngagedRuns,TackleBreaks,HitUps,Play TheBall,Average Play The BallSpeed,Dummy HalfRuns,Dummy Half RunMetres,One on OneSteal,Offloads,DummyPasses,Passes,Receipts,Passes To RunRatio,Tackle Efficiency,TacklesMade,MissedTackles,Ineffective Tackles,Intercepts,KicksDefused,Kicks,KickingMetres,Forced DropOuts,BombKicks,Grubbers,40/20,20/40,Cross FieldKicks,KickedDead,Errors,Handling Errors,One on OneLost,Penalties,Ruck Infringements,Inside 10Metres,OnReport,SinBins,SendOffs,StintOne,StintTwo
+Sebastian Kris,1,Fullback,68,0,0,0,0,0,0.0,0,0,21,15,153,69,69,0,0,0,0,2,1,0,3.88,1,4,0,0,0,1,18,0.07,80.0,4,1,0,0,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,49,18
+Nick Cotric,2,Winger,80,0,0,0,0,0,0.0,0,0,16,9,94,10,32,0,0,0,0,2,0,0,4.08,0,0,0,0,0,5,16,0.56,100.0,3,0,0,0,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,80,0
+Matthew Timoko,3,Centre,80,0,0,0,0,0,0.0,0,0,25,9,110,0,43,0,0,0,0,2,1,0,3.23,0,0,0,0,0,2,10,0.22,75.0,12,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Harley Smith-Shields,4,Centre,80,0,0,0,0,0,0.0,0,0,22,16,152,0,43,1,0,0,0,2,1,0,3.69,1,4,0,0,1,5,22,0.31,100.0,5,0,0,0,0,1,17,0,0,1,0,0,0,0,3,2,0,0,0,0,0,0,0,80,0
+Jordan Rapana,5,Winger,80,0,0,0,0,0,0.0,0,0,21,13,122,15,47,0,0,0,0,5,3,0,3.92,1,18,0,0,0,8,25,0.62,100.0,2,0,0,0,5,1,8,1,0,1,0,0,0,0,2,1,0,3,0,0,0,0,0,80,0
+Jack Wighton,6,Five-Eighth,80,4,1,0,0,0,0.0,0,0,37,6,35,2,2,0,0,0,0,1,0,0,4.78,1,9,0,0,2,22,42,3.67,82.76,24,5,0,0,0,13,421,0,2,2,0,0,0,0,1,1,0,1,0,0,0,0,0,80,0
+Jamal Fogarty,7,Halfback,80,6,0,3,3,0,100.0,0,0,34,3,22,0,18,0,0,0,0,3,0,0,0.0,0,0,0,1,0,25,32,8.33,85.71,12,1,1,0,0,6,184,1,2,1,0,0,0,0,1,1,0,0,0,0,0,0,0,80,0
+Pasami Saulo,8,Prop,33,0,0,0,0,0,0.0,0,0,35,5,64,9,35,0,0,0,0,0,4,0,3.46,0,0,0,0,0,0,5,0.0,91.67,33,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,13
+Danny Levi,9,Hooker,40,0,0,0,0,0,0.0,0,0,29,2,26,0,3,0,0,0,0,0,0,0,2.0,2,26,0,1,0,32,34,16.0,87.1,27,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,26,13
+Joseph Tapine,10,Prop,49,0,0,0,0,0,0.0,0,0,45,12,122,0,48,0,0,0,0,1,11,0,3.66,0,0,0,1,0,2,13,0.17,88.64,39,4,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,24,25
+Hudson Young,11,2nd Row,80,0,0,0,0,0,0.0,0,0,27,7,71,0,21,0,0,0,0,2,7,0,3.79,0,0,0,0,0,3,11,0.43,83.33,30,6,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,80,0
+Elliott Whitehead,12,2nd Row,80,0,0,0,0,0,0.0,0,0,32,8,79,0,15,0,0,0,0,0,8,0,3.8,0,0,0,1,0,2,10,0.25,86.84,33,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,80,0
+Corey Harawira-Naera,13,Lock,66,0,0,0,0,0,0.0,0,0,42,6,49,1,19,0,1,0,0,2,5,0,4.35,0,0,0,2,0,3,7,0.5,89.29,25,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61,4

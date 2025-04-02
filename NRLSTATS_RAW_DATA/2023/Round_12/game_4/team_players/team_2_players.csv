@@ -1,0 +1,14 @@
+Player,Number,Position,MinsPlayed,Points,Tries,Conversions,Conversion Attempts,PenaltyGoals,Goal ConversionRate,1 Point FieldGoals,2 Point FieldGoals,TotalPoints,AllRuns,All RunMetres,Kick ReturnMetres,Post ContactMetres,LineBreaks,Line BreakAssists,TryAssists,Line EngagedRuns,TackleBreaks,HitUps,Play TheBall,Average Play The BallSpeed,Dummy HalfRuns,Dummy Half RunMetres,One on OneSteal,Offloads,DummyPasses,Passes,Receipts,Passes To RunRatio,Tackle Efficiency,TacklesMade,MissedTackles,Ineffective Tackles,Intercepts,KicksDefused,Kicks,KickingMetres,Forced DropOuts,BombKicks,Grubbers,40/20,20/40,Cross FieldKicks,KickedDead,Errors,Handling Errors,One on OneLost,Penalties,Ruck Infringements,Inside 10Metres,OnReport,SinBins,SendOffs,StintOne,StintTwo
+Lachlan Miller,1,Fullback,80,2,0,1,1,0,100.0,0,0,23,19,178,29,41,0,0,0,0,5,2,0,3.11,0,0,0,0,2,12,30,0.63,57.14,4,2,1,0,2,0,0,0,0,0,0,0,0,0,4,2,0,0,0,0,0,0,0,80,0
+Dominic Young,2,Winger,80,0,0,0,0,0,0.0,0,0,12,11,116,0,47,0,0,0,0,2,0,0,3.31,0,0,0,0,0,1,14,0.09,75.0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,80,0
+Dane Gagai,3,Centre,80,0,0,0,0,0,0.0,0,0,24,14,143,0,46,0,0,0,0,5,1,0,3.1,1,3,0,1,0,3,17,0.21,63.64,14,7,1,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,80,0
+Bradman Best,4,Centre,80,0,0,0,0,0,0.0,0,0,47,12,105,0,36,0,1,1,0,0,0,0,2.96,0,0,0,1,0,0,12,0.0,86.96,20,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Greg Marzhew,5,Winger,80,0,0,0,0,0,0.0,0,0,37,16,180,33,62,0,0,0,0,9,1,0,3.24,0,0,0,0,0,0,17,0.0,50.0,1,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Kalyn Ponga,6,Five-Eighth,69,4,1,0,0,0,0.0,0,0,36,9,88,0,14,1,0,0,0,1,0,0,4.05,0,0,0,0,0,16,28,1.78,80.77,21,4,1,0,1,4,126,0,0,1,0,0,0,0,2,1,0,0,0,0,0,0,0,3,65
+Jackson Hastings,7,Halfback,80,0,0,0,0,0,0.0,0,0,41,11,77,0,15,0,0,0,0,1,0,0,3.59,0,0,0,0,3,44,59,4.0,86.36,19,3,0,0,0,13,398,0,7,0,0,0,1,0,0,0,0,1,0,0,0,0,0,80,0
+Daniel Saifiti,8,Prop,50,0,0,0,0,0,0.0,0,0,44,15,170,22,49,0,0,0,0,2,11,0,2.69,0,0,0,1,1,3,16,0.2,92.0,23,0,2,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,29,20
+Phoenix Crossland,9,Hooker,60,0,0,0,0,0,0.0,0,0,24,3,29,0,5,0,0,0,0,0,0,0,3.64,3,29,0,1,0,94,97,31.33,84.21,32,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,59,0
+Jack Hetherington,10,Prop,34,0,0,0,0,0,0.0,0,0,15,4,37,0,9,0,0,0,0,0,4,0,2.87,0,0,0,1,0,0,4,0.0,80.0,16,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,16
+Tyson Frizell,11,2nd Row,80,0,0,0,0,0,0.0,0,0,46,8,83,0,30,0,0,0,0,0,8,0,2.91,0,0,0,0,0,3,13,0.38,95.35,41,2,0,0,1,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,80,0
+Lachlan Fitzgibbon,12,2nd Row,50,0,0,0,0,0,0.0,0,0,39,9,64,0,21,0,0,0,0,0,9,0,2.95,0,0,0,0,0,1,10,0.11,93.55,29,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0
+Leo Thompson,13,Lock,39,0,0,0,0,0,0.0,0,0,45,8,94,0,41,0,0,0,0,4,8,0,3.76,0,0,0,0,0,4,12,0.5,96.77,30,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,15

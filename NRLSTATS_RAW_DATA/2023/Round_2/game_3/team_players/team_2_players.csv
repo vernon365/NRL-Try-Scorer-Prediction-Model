@@ -1,0 +1,14 @@
+Player,Number,Position,MinsPlayed,Points,Tries,Conversions,Conversion Attempts,PenaltyGoals,Goal ConversionRate,1 Point FieldGoals,2 Point FieldGoals,TotalPoints,AllRuns,All RunMetres,Kick ReturnMetres,Post ContactMetres,LineBreaks,Line BreakAssists,TryAssists,Line EngagedRuns,TackleBreaks,HitUps,Play TheBall,Average Play The BallSpeed,Dummy HalfRuns,Dummy Half RunMetres,One on OneSteal,Offloads,DummyPasses,Passes,Receipts,Passes To RunRatio,Tackle Efficiency,TacklesMade,MissedTackles,Ineffective Tackles,Intercepts,KicksDefused,Kicks,KickingMetres,Forced DropOuts,BombKicks,Grubbers,40/20,20/40,Cross FieldKicks,KickedDead,Errors,Handling Errors,One on OneLost,Penalties,Ruck Infringements,Inside 10Metres,OnReport,SinBins,SendOffs,StintOne,StintTwo
+Scott Drinkwater,1,Fullback,70,0,0,0,0,0,0.0,0,0,10,14,105,40,21,0,0,0,0,1,0,0,3.69,0,0,0,0,2,10,26,0.71,75.0,6,2,0,0,3,3,128,0,0,0,0,0,0,0,1,2,0,2,0,0,1,1,0,70,0
+Kyle Feldt,2,Winger,80,0,0,0,0,0,0.0,0,0,23,14,141,16,48,0,0,0,0,1,0,0,3.15,0,0,0,0,0,0,13,0.0,87.5,7,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Valentine Holmes,3,Centre,80,8,0,2,2,2,100.0,0,0,42,15,149,9,53,0,0,0,0,5,0,0,3.39,2,20,0,0,0,4,17,0.27,100.0,10,0,0,0,0,1,13,0,0,1,0,0,0,0,2,2,0,0,0,0,0,0,0,80,0
+Peta Hiku,4,Centre,80,0,0,0,0,0,0.0,0,0,9,16,132,7,45,0,0,0,0,0,0,0,3.63,0,0,0,0,1,2,21,0.13,77.78,14,4,0,0,0,0,0,0,0,0,0,0,0,0,2,4,0,3,0,0,1,0,0,80,0
+Murray Taulagi,5,Winger,80,0,0,0,0,0,0.0,0,0,30,10,125,1,38,1,0,0,0,3,0,0,3.3,0,0,0,1,0,2,13,0.2,87.5,7,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,80,0
+Tom Dearden,6,Five-Eighth,80,0,0,0,0,0,0.0,0,0,35,7,53,0,18,1,0,0,0,4,0,0,3.93,1,5,0,1,3,33,41,4.71,77.78,21,4,2,0,1,2,29,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,80,0
+Chad Townsend,7,Halfback,80,0,0,0,0,0,0.0,0,0,34,9,61,0,10,0,1,2,0,0,0,0,4.11,1,10,0,0,5,29,49,3.22,71.43,15,5,1,0,0,16,531,0,3,2,0,0,0,1,2,1,0,1,0,0,0,0,0,80,0
+Jordan McLean,8,Prop,52,0,0,0,0,0,0.0,0,0,44,13,142,0,70,0,0,0,0,0,13,0,3.29,0,0,0,0,0,1,14,0.08,96.97,32,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,25,26
+Reece Robson,9,Hooker,80,0,0,0,0,0,0.0,0,0,42,6,43,0,12,0,0,0,0,0,0,0,4.39,4,28,0,0,4,86,91,14.33,87.27,48,3,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,80,0
+Reuben Cotter,10,Prop,56,0,0,0,0,0,0.0,0,0,41,13,128,0,44,0,0,0,0,1,12,0,3.4,0,0,0,0,1,4,17,0.31,83.67,41,6,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,28,26
+Coen Hess,11,2nd Row,65,0,0,0,0,0,0.0,0,0,30,4,36,0,15,0,0,0,0,0,4,0,3.12,0,0,0,1,0,3,5,0.75,89.66,26,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,65,0
+Jeremiah Nanai,12,2nd Row,80,8,2,0,0,0,0.0,0,0,40,4,31,6,5,1,0,0,0,3,2,0,3.84,0,0,0,0,0,1,6,0.25,72.22,26,8,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0
+Jason Taumalolo,13,Lock,52,0,0,0,0,0,0.0,0,0,52,15,202,65,89,0,0,0,0,7,10,0,4.06,0,0,0,0,0,1,15,0.07,84.62,22,3,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,26,25
