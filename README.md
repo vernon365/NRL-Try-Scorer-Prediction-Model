@@ -1,5 +1,5 @@
 # NRL Try Scorer Prediction using Machine Learning
-Model Still Under Development
+#### Model Still Under Development
 
 This project uses machine learning and neural networks (TensorFlow + Keras) to predict NRL try scorers based on past performance and team statistics. The pipeline includes data wrangling, feature engineering, model training, evaluation, and prediction visualization.
 
@@ -52,3 +52,8 @@ venv\Scripts\activate
 
 # Install required packages
 pip install -r requirements.txt
+
+# start the server
+python manage.py runserver
+
+
