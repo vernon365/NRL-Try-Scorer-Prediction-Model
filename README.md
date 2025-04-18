@@ -53,7 +53,8 @@ venv\Scripts\activate
 # Install required packages
 pip install -r requirements.txt
 
-# start the server
-python manage.py runserver
+# Execute the Code
+Navigate to the Model Code folder and run the file linken_23582206.py
+
 
 
